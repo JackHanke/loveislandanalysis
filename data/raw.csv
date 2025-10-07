@@ -1,0 +1,775 @@
+Country,Season,Islander,Age,Hometown,Day Entered,Day Left,Status
+UK,1,Jess Hayes,22,Oxford,Day 1,Winner (Day 41),
+UK,1,Max Morley,22,Huddersfield,Day 14,Winner (Day 41),
+UK,1,Hannah Elizabeth,25,Liverpool,Day 1,Runner-up (Day 41),
+UK,1,Jon Clark,25,Essex,Day 1,Runner-up (Day 41),
+UK,1,Josh Ritchie,21,Bolton,Day 1,Third place (Day 41),
+UK,1,Lauren Richardson,26,East London,Day 1,Third place (Day 41),
+UK,1,Cally Jane Beech,23,Hull,Day 21,Fourth place (Day 41),
+UK,1,Luis Morrison,20,London,Day 1,Fourth place (Day 41),
+UK,1,Jordan Ring,31,Gloucester,Day 1,Dumped (Day 35),
+UK,1,Zoe Basia Brown,24,South London,Day 1,Dumped (Day 35),
+UK,1,Ben Porter,24,Wakefield,Day 32,Dumped (Day 33),
+UK,1,Poppy Farnan,22,Chester,Day 32,Dumped (Day 33),
+UK,1,Naomi Ball,23,East London,Day 7,Dumped (Day 28),
+UK,1,Travis Almond,22,Essex,Day 21,Dumped (Day 28),
+UK,1,Omar Sultani,22,Leamington Spa,Day 1,Dumped (Day 21),
+UK,1,Bethany Rogers,19,Leeds,Day 14,Dumped (Day 21),
+UK,1,Daisy Muller,24,Birmingham,Day 7,Dumped (Day 19),
+UK,1,Chris Williamson,27,Newcastle,Day 1,Dumped (Day 19),
+UK,1,Chris Baxter,20,London,Day 11,Dumped (Day 14),
+UK,1,Danielle Pyne,23,London,Day 1,Dumped (Day 14),
+UK,1,Rachel Christie,26,London,Day 1,Dumped (Day 11),
+UK,1,John Alberti,29,Manchester,Day 3,Dumped (Day 6),
+UK,1,Tony Alberti,29,Manchester,Day 3,Dumped (Day 6),
+UK,2,Cara De La Hoyde,26,Kent,Day 1,Winner (Day 45),
+UK,2,Nathan Massey,25,Essex,Day 1,Winner (Day 45),
+UK,2,Alex Bowen,24,Wolverhampton,Day 18,Runner-up (Day 45),
+UK,2,Olivia Buckland,22,Chelmsford,Day 1,Runner-up (Day 45),
+UK,2,Kady McDermott,20,Stevenage,Day 3,Third place (Day 45),
+UK,2,Scott Thomas,27,Manchester,Day 1,Third place (Day 45),
+UK,2,Adam Maxted,24,Belfast,Day 11,Fourth place (Day 45),
+UK,2,Katie Salmon,20,The Wirral,Day 34,Fourth place (Day 45),
+UK,2,Emma Jane Woodham,19,Oxford,Day 27,Dumped (Day 41),
+UK,2,Terry Walsh,28,Surrey,Day 3,Dumped (Day 41),
+UK,2,Adam Jukes,23,Manchester,Day 34,Dumped (Day 41),
+UK,2,Lauren Whiteside,25,Blackpool,Day 37,Dumped (Day 41),
+UK,2,Tina Stinnes,21,London,Day 20,Dumped (Day 40),
+UK,2,Sophie Gradon,30,Newcastle,Day 1,Walked (Day 39),
+UK,2,Troy Frith,23,Kent,Day 30,Dumped (Day 37),
+UK,2,Tom Powell,24,Port Talbot,Day 1,Dumped (Day 33),
+UK,2,Liana Isadora Van Riel,20,Exeter,Day 20,Dumped (Day 33),
+UK,2,Oliver Maxwell Fernandez,25,Hertfordshire,Day 30,Dumped (Day 31),
+UK,2,Malin Andersson,23,Milton Keynes,Day 1,Dumped (Day 25),
+UK,2,Zara Holland,20,Hull,Day 1,Walked (Day 22),
+UK,2,James Khan,20,Teddington,Day 18,Dumped (Day 20),
+UK,2,Rykard Jenkins,25,Kent,Day 1,Walked (Day 15),
+UK,2,Daniel Lukakis,23,London,Day 1,Dumped (Day 15),
+UK,2,Rachel Fenton,23,Hampshire,Day 7,Dumped (Day 15),
+UK,2,Malia Arkian,26,Manchester,Day 7,Removed (Day 7),
+UK,2,Javi Shephard,27,York,Day 1,Dumped (Day 6),
+UK,3,Amber Davies,20,North Wales,Day 1,Winner (Day 52),
+UK,3,Kem Cetinay,21,Essex,Day 1,Winner (Day 52),
+UK,3,Camilla Thurlow,27,Dumfries,Day 1,Runner-up (Day 52),
+UK,3,Jamie Jewitt,27,Essex,Day 32,Runner-up (Day 52),
+UK,3,Chris Hughes,24,Cheltenham,Day 4,Third place (Day 52),
+UK,3,Olivia Attwood,26,Guildford,Day 1,Third place (Day 52),
+UK,3,Gabby Allen,25,Liverpool,Day 7,Fourth place (Day 52),
+UK,3,Marcel Somerville,31,London,Day 1,Fourth place (Day 52),
+UK,3,Alex Beattie,22,Newcastle,Day 26,Dumped (Day 50),
+UK,3,Montana Brown,21,Hertfordshire,Day 1,Dumped (Day 50),
+UK,3,Georgia Harrison,22,Essex,Day 34,Dumped (Day 46),
+UK,3,Sam Gowland,21,Middlesbrough,Day 1,Dumped (Day 23),
+UK,3,Sam Gowland,21,Middlesbrough,Day 39,Re-dumped (Day 46),
+UK,3,Mike Thalassitis,24,North London,Day 12,Dumped (Day 17),
+UK,3,Mike Thalassitis,24,North London,Day 39,Re-dumped (Day 44),
+UK,3,Tyla Carr,23,Surrey,Day 19,Dumped (Day 44),
+UK,3,Theo Campbell,25,Bath,Day 32,Dumped (Day 41),
+UK,3,Jonny Mitchell,26,Essex,Day 4,Dumped (Day 38),
+UK,3,Craig Lawson,27,London,Day 26,Dumped (Day 31),
+UK,3,Nathan Joseph,25,Essex,Day 26,Dumped (Day 31),
+UK,3,Danielle Sellers,22,Hastings,Day 26,Dumped (Day 31),
+UK,3,Chyna Ellis,22,Essex,Day 26,Dumped (Day 31),
+UK,3,Amelia Peters,18,London,Day 26,Dumped (Day 28),
+UK,3,Dom Lever,26,Manchester,Day 1,Dumped (Day 28),
+UK,3,Ellisha-Jade White,22,Southampton,Day 26,Dumped (Day 28),
+UK,3,Marino Katsouris,22,Brighton,Day 26,Dumped (Day 28),
+UK,3,Rob Lipsett,25,Dublin,Day 26,Dumped (Day 28),
+UK,3,Shannen McGrath,23,Dublin,Day 26,Dumped (Day 28),
+UK,3,Steve Ball,25,Wiltshire,Day 26,Dumped (Day 28),
+UK,3,Simon Searles,28,Leeds,Day 19,Dumped (Day 25),
+UK,3,Chloë Crowhurst,22,Essex,Day 1,Dumped (Day 23),
+UK,3,Jessica Shears,23,Devon,Day 1,Dumped (Day 17),
+UK,3,Tyne-Lexy Clarson,20,Birmingham,Day 7,Dumped (Day 14),
+UK,3,Harley Judge,22,Norwich,Day 1,Dumped (Day 6),
+UK,4,Dani Dyer,21,London,Day 1,Winner (Day 59),
+UK,4,Jack Fincham,26,Essex,Day 1,Winner (Day 59),
+UK,4,Laura Anderson,29,Stirling,Day 1,Runner-up (Day 59),
+UK,4,Paul Knops,31,Bournemouth,Day 43,Runner-up (Day 59),
+UK,4,Josh Denzel,27,London,Day 8,Third place (Day 59),
+UK,4,Kazimir Crossley,23,London,Day 26,Third place (Day 59),
+UK,4,Megan Barton-Hanson,24,Southend-on-Sea,Day 8,Fourth place (Day 59),
+UK,4,Wes Nelson,20,Staffordshire,Day 1,Fourth place (Day 59),
+UK,4,Alex George,27,Carmarthen,Day 1,Dumped (Day 57),
+UK,4,Alexandra Cane,27,Hertfordshire,Day 39,Dumped (Day 57),
+UK,4,Jack Fowler,22,London,Day 26,Dumped (Day 53),
+UK,4,Laura Crane,23,Devon,Day 43,Dumped (Day 53),
+UK,4,Josh Mair,21,Birmingham,Day 43,Dumped (Day 50),
+UK,4,Stephanie Lam,23,Hertfordshire,Day 43,Dumped (Day 50),
+UK,4,Georgia Steel,20,York,Day 4,Dumped (Day 47),
+UK,4,Sam Bird,25,Norwich,Day 19,Dumped (Day 47),
+UK,4,Charlie Brake,23,Chelsea,Day 26,Dumped (Day 43),
+UK,4,Ellie Brown,20,Newcastle,Day 15,Dumped (Day 43),
+UK,4,Idris Virgo,25,Birmingham,Day 37,Dumped (Day 40),
+UK,4,Kieran Nicholls,26,London,Day 37,Dumped (Day 40),
+UK,4,Samira Mighty,22,London,Day 1,Walked (Day 40),
+UK,4,Frankie Foster,22,Cheltenham,Day 26,Dumped (Day 37),
+UK,4,Grace Wardle,25,London,Day 26,Dumped (Day 37),
+UK,4,Darylle Sargeant,24,Hertfordshire,Day 26,Dumped (Day 33),
+UK,4,Ellie Jones,22,Essex,Day 26,Dumped (Day 33),
+UK,4,Adam Collard,22,Newcastle,Day 1,Dumped (Day 33),
+UK,4,Alex Miller,28,Essex,Day 26,Dumped (Day 33),
+UK,4,Charlie Williams,24,Bath,Day 26,Dumped (Day 30),
+UK,4,Dean Overson,25,Burnley,Day 26,Dumped (Day 30),
+UK,4,Jordan Adefeyisan,23,Manchester,Day 26,Dumped (Day 30),
+UK,4,Savanna Darnell,22,Sheffield,Day 26,Dumped (Day 30),
+UK,4,Zara McDermott,21,Essex,Day 15,Dumped (Day 25),
+UK,4,Eyal Booker,22,London,Day 1,Dumped (Day 25),
+UK,4,Rosie Williams,26,South Wales,Day 4,Dumped (Day 20),
+UK,4,Charlie Frederick,23,Plymouth,Day 8,Dumped (Day 13),
+UK,4,Hayley Hughes,21,Liverpool,Day 1,Dumped (Day 13),
+UK,4,Niall Aslam,23,Coventry,Day 1,Walked (Day 9),
+UK,4,Kendall Rae-Knight,26,Blackpool,Day 1,Dumped (Day 6),
+UK,5,Amber Gill,21,Newcastle,Day 1,Winner (Day 58),
+UK,5,Greg O'Shea,24,Limerick,Day 44,Winner (Day 58),
+UK,5,Molly-Mae Hague,20,Hitchin,Day 4,Runner-up (Day 58),
+UK,5,Tommy Fury,20,Manchester,Day 1,Runner-up (Day 58),
+UK,5,India Reynolds,28,Reading,Day 44,Third place (Day 58),
+UK,5,Ovie Soko,28,London,Day 26,Third place (Day 58),
+UK,5,Curtis Pritchard,23,Whitchurch,Day 1,Fourth place (Day 58),
+UK,5,Maura Higgins,28,Ballymahon,Day 10,Fourth place (Day 58),
+UK,5,Anton Danyluk,24,Airdrie,Day 1,Dumped (Day 56),
+UK,5,Belle Hassan,21,Bromley,Day 26,Dumped (Day 56),
+UK,5,Anna Vakili,28,London,Day 1,Dumped (Day 52),
+UK,5,Jordan Mainoo-Hames,24,Manchester,Day 14,Dumped (Day 52),
+UK,5,Chris Taylor,28,Leicester,Day 37,Dumped (Day 52),
+UK,5,Harley Brash,20,Newcastle,Day 44,Dumped (Day 52),
+UK,5,Francesca Allen,23,Loughton,Day 37,Dumped (Day 49),
+UK,5,Michael Griffiths,27,Liverpool,Day 1,Dumped (Day 49),
+UK,5,Joanna Chimonides,22,London,Day 26,Dumped (Day 42),
+UK,5,Marvin Brooks,29,Poole,Day 26,Dumped (Day 39),
+UK,5,Amy Hart,26,Worthing,Day 1,Walked (Day 37),
+UK,5,George Rains,22,Saffron Walden,Day 26,Dumped (Day 36),
+UK,5,Lucie Donlan,21,Newquay,Day 1,Dumped (Day 36),
+UK,5,Danny Williams,21,Hull,Day 7,Dumped (Day 36),
+UK,5,Jourdan Riane Hammond,24,Essex,Day 26,Dumped (Day 36),
+UK,5,Dan Rose,21,Nuneaton,Day 26,Dumped (Day 30),
+UK,5,Dennon Lewis,22,Watford,Day 26,Dumped (Day 30),
+UK,5,Lavena Back,23,Croydon,Day 26,Dumped (Day 30),
+UK,5,Maria Wild,22,Cheltenham,Day 26,Dumped (Day 30),
+UK,5,Nabila Badda,29,London,Day 26,Dumped (Day 30),
+UK,5,Stevie Bradley,21,Isle of Man,Day 26,Dumped (Day 30),
+UK,5,Arabella Chi,28,London,Day 18,Dumped (Day 25),
+UK,5,Tom Walker,29,Leeds,Day 14,Dumped (Day 25),
+UK,5,Yewande Biala,23,Enfield,Day 1,Dumped (Day 22),
+UK,5,Joe Garratt,22,London,Day 1,Dumped (Day 16),
+UK,5,Elma Pazar,26,Essex,Day 10,Dumped (Day 16),
+UK,5,Sherif Lanre,20,London,Day 1,Removed (Day 9),
+UK,5,Callum Macleod,28,Bridgend,Day 1,Dumped (Day 5),
+UK,6,Finn Tapp,20,Milton Keynes,Day 5,Winner (Day 44),
+UK,6,Paige Turley,22,Fauldhouse,Day 1,Winner (Day 44),
+UK,6,Luke Trotman,22,Luton,Day 12,Runner-up (Day 44),
+UK,6,Siânnise Fudge,25,Bristol,Day 1,Runner-up (Day 44),
+UK,6,Demi Jones,21,Portsmouth,Day 16,Third place (Day 44),
+UK,6,Luke Mabbott,24,Redcar,Day 12,Third place (Day 44),
+UK,6,Ched Uzor,23,Bury St Edmunds,Day 23,Fourth place (Day 44),
+UK,6,Jess Gale,20,Cambridge,Day 1,Fourth place (Day 44),
+UK,6,Mike Boateng,24,London,Day 1,Dumped (Day 41),
+UK,6,Priscilla Anyabu,25,Battersea,Day 23,Dumped (Day 41),
+UK,6,Callum Jones,23,Manchester,Day 1,Dumped (Day 38),
+UK,6,Molly Smith,25,Manchester,Day 23,Dumped (Day 38),
+UK,6,Jamie Clayton,28,Edinburgh,Day 31,Dumped (Day 38),
+UK,6,Natalia Zoppa,20,Manchester,Day 23,Dumped (Day 38),
+UK,6,Shaughna Phillips,25,London,Day 1,Dumped (Day 33),
+UK,6,Eva Zapico,21,Bromley,Day 23,Dumped (Day 30),
+UK,6,Nas Majeed,23,London,Day 1,Dumped (Day 30),
+UK,6,Jordan Waobikeze,24,London,Day 23,Dumped (Day 30),
+UK,6,Rebecca Gormley,21,Newcastle,Day 9,Dumped (Day 30),
+UK,6,Alexi Eraclides,23,Essex,Day 23,Dumped (Day 26),
+UK,6,Biggs Chris,27,Glasgow,Day 23,Dumped (Day 26),
+UK,6,George Day,27,Southampton,Day 23,Dumped (Day 26),
+UK,6,Jade Affleck,25,Yarm,Day 23,Dumped (Day 26),
+UK,6,Jamie McCann,25,Stevenston,Day 23,Dumped (Day 26),
+UK,6,Josh Kempton,21,Camberley,Day 23,Dumped (Day 26),
+UK,6,Sophie Piper,21,Essex,Day 1,Dumped (Day 22),
+UK,6,Wallace Wilson,24,Inverness,Day 16,Dumped (Day 22),
+UK,6,Leanne Amaning,22,London,Day 1,Dumped (Day 18),
+UK,6,Connor Durman,25,Brighton,Day 1,Dumped (Day 15),
+UK,6,Connagh Howard,27,Cardiff,Day 5,Dumped (Day 13),
+UK,6,Eve Gale,20,Cambridge,Day 1,Dumped (Day 6),
+UK,6,Ollie Williams,23,Lanhydrock,Day 1,Walked (Day 4),
+UK,7,Liam Reardon,21,Merthyr Tydfil,Day 4,Winner (Day 58),
+UK,7,Millie Court,24,Romford,Day 9,Winner (Day 58),
+UK,7,Chloe Burrows,25,Bicester,Day 1,Runner-up (Day 58),
+UK,7,Toby Aromolaran,22,Chafford Hundred,Day 1,Runner-up (Day 58),
+UK,7,Faye Winter,26,Exeter,Day 1,Third place (Day 58),
+UK,7,Teddy Soares,26,Manchester,Day 12,Third place (Day 58),
+UK,7,Kaz Kamwi,26,Witham,Day 1,Fourth place (Day 58),
+UK,7,Tyler Cruickshank,26,London,Day 23,Fourth place (Day 58),
+UK,7,Jake Cornish,24,Weston-super-Mare,Day 1,Walked (Day 54),
+UK,7,Liberty Poole,21,Birmingham,Day 1,Walked (Day 54),
+UK,7,Aaron Simpson,24,Canterbury,Day 42,Dumped (Day 52),
+UK,7,Mary Bedford,22,Wakefield,Day 29,Dumped (Day 52),
+UK,7,Brett Staniland,27,Draycott,Day 44,Dumped (Day 50),
+UK,7,Priya Gopaldas,23,London,Day 42,Dumped (Day 50),
+UK,7,Matthew MacNabb,26,Downpatrick,Day 29,Dumped (Day 45),
+UK,7,Abigail Rawlings,27,Bournemouth,Day 23,Dumped (Day 42),
+UK,7,Dale Mehmet,24,Glasgow,Day 29,Dumped (Day 42),
+UK,7,Amy Day,25,West Molesey,Day 29,Dumped (Day 38),
+UK,7,Clarisse Juliette,23,London,Day 29,Dumped (Day 38),
+UK,7,Hugo Hammond,24,Alton,Day 1,Dumped (Day 38),
+UK,7,Sam Jackson,23,Clitheroe,Day 29,Dumped (Day 38),
+UK,7,Harry Young,24,Wishaw,Day 29,Dumped (Day 32),
+UK,7,Jack Barlow,26,Pett,Day 29,Dumped (Day 32),
+UK,7,Kaila Troy,28,Malahide,Day 29,Dumped (Day 32),
+UK,7,Lillie Haynes,22,South Shields,Day 29,Dumped (Day 32),
+UK,7,Medhy Malanda,24,Luton,Day 29,Dumped (Day 32),
+UK,7,Salma Naran,20,Dublin,Day 29,Dumped (Day 32),
+UK,7,Aaron Francis,24,London,Day 1,Dumped (Day 28),
+UK,7,Lucinda Strafford,21,Ditchling,Day 9,Dumped (Day 28),
+UK,7,Georgia Townend,28,Maldon,Day 23,Dumped (Day 25),
+UK,7,"Andrea-Jane ""AJ"" Bunker",28,Dunstable,Day 17,Dumped (Day 23),
+UK,7,Danny Bibby,25,Leigh,Day 18,Dumped (Day 23),
+UK,7,Sharon Gaffka,25,Didcot,Day 1,Dumped (Day 19),
+UK,7,Brad McClelland,26,Amble,Day 1,Dumped (Day 16),
+UK,7,Rachel Finni,29,Barnet,Day 5,Dumped (Day 14),
+UK,7,"Oliver ""Chuggs"" Wallis",23,Weybridge,Day 4,Dumped (Day 6),
+UK,7,Shannon Singh,22,Glenrothes,Day 1,Dumped (Day 2),
+UK,8,Davide Sanclimenti,27,Manchester,Day 1,Winner (Day 58),
+UK,8,Ekin-Su Cülcüloğlu,27,London,Day 3,Winner (Day 58),
+UK,8,Gemma Owen,19,Chester,Day 1,Runner-up (Day 58),
+UK,8,Luca Bish,23,Brighton,Day 1,Runner-up (Day 58),
+UK,8,Dami Hope,26,Dublin,Day 1,Third place (Day 58),
+UK,8,Indiyah Polack,23,London,Day 1,Third place (Day 58),
+UK,8,Andrew Le Page,27,Guernsey,Day 1,Fourth place (Day 58),
+UK,8,Tasha Ghouri,23,Thirsk,Day 1,Fourth place (Day 58),
+UK,8,Adam Collard,26,Newcastle,Day 36,Dumped (Day 56),
+UK,8,Paige Thorne,24,Swansea,Day 1,Dumped (Day 56),
+UK,8,Danica Taylor,21,Leicester,Day 12,Dumped (Day 51),
+UK,8,Jamie Allen,27,Preston,Day 45,Dumped (Day 51),
+UK,8,Deji Adeniyi,25,Bedford,Day 26,Dumped (Day 49),
+UK,8,Lacey Edwards,25,Swindon,Day 45,Dumped (Day 49),
+UK,8,Nathalia Campos,23,London,Day 45,Dumped (Day 49),
+UK,8,Reece Ford,23,Coventry,Day 45,Dumped (Day 49),
+UK,8,Billy Brown,23,Surrey,Day 26,Dumped (Day 44),
+UK,8,Summer Botwe,22,Hertfordshire,Day 27,Dumped (Day 44),
+UK,8,Coco Lodge,27,Surrey,Day 27,Dumped (Day 39),
+UK,8,Josh Le Grove,22,Halstead,Day 26,Dumped (Day 39),
+UK,8,Jacques O'Neill,23,Walney,Day 7,Walked (Day 37),
+UK,8,Chyna Mills,23,Leeds,Day 27,Dumped (Day 35),
+UK,8,Jay Younger,28,Edinburgh,Day 9,Dumped (Day 35),
+UK,8,Cheyanne Kerr,23,Barnsley,Day 27,Dumped (Day 31),
+UK,8,George Tasker,23,Cirencester,Day 26,Dumped (Day 31),
+UK,8,Jack Keating,23,Dublin,Day 26,Dumped (Day 31),
+UK,8,Jazmine Nichol,21,Newcastle,Day 27,Dumped (Day 31),
+UK,8,Mollie Salmon,23,Southampton,Day 27,Dumped (Day 31),
+UK,8,Samuel Agbiji,22,Manchester,Day 26,Dumped (Day 31),
+UK,8,Antigoni Buxton,26,London,Day 17,Dumped (Day 25),
+UK,8,Charlie Radnedge,28,London,Day 17,Dumped (Day 25),
+UK,8,Amber Beckford,24,London,Day 1,Dumped (Day 15),
+UK,8,Ikenna Ekwonna,23,Nottingham,Day 1,Dumped (Day 15),
+UK,8,Remi Lambert,22,Manchester,Day 9,Dumped (Day 12),
+UK,8,Afia Tonkmor,25,London,Day 3,Dumped (Day 8),
+UK,8,Liam Llewellyn,22,Newport,Day 1,Walked (Day 5),
+UK,9,Kai Fagan,24,Manchester,Day 1,Winner (Day 58),
+UK,9,Sanam Harrinanan,24,Bedford,Day 29,Winner (Day 58),
+UK,9,Lana Jenkins,25,Luton,Day 1,Runner-up (Day 58),
+UK,9,Ron Hall,25,Essex,Day 1,Runner-up (Day 58),
+UK,9,Samie Elishi,23,London,Day 14,Third place (Day 58),
+UK,9,Tom Clare,23,Barnsley,Day 1,Third place (Day 58),
+UK,9,Shaq Muhammad,24,London,Day 1,Fourth place (Day 58),
+UK,9,Tanya Manhenga,23,Liverpool,Day 1,Fourth place (Day 58),
+UK,9,Jessie Wynter,26,"Hobart, Australia",Day 7,Dumped (Day 56),
+UK,9,Will Young,23,Aylesbury,Day 1,Dumped (Day 56),
+UK,9,Casey O'Gorman,26,Tring,Day 17,Dumped (Day 51),
+UK,9,Rosie Seabrook,24,Bledlow Ridge,Day 39,Dumped (Day 51),
+UK,9,Claudia Fogarty,28,Blackburn,Day 23,Dumped (Day 45),
+UK,9,Keanan Brand,24,Wigan,Day 39,Dumped (Day 45),
+UK,9,Maxwell Samuda,23,London,Day 28,Dumped (Day 45),
+UK,9,Olivia Hawkins,27,Brighton,Day 1,Dumped (Day 45),
+UK,9,Martin Akinola,27,Dublin,Day 28,Dumped (Day 40),
+UK,9,Bayley Mummery,25,Addlestone,Day 28,Dumped (Day 32),
+UK,9,Cynthia Otseh-Taiwo,25,London,Day 29,Dumped (Day 32),
+UK,9,Frankie Davey,22,Ipswich,Day 28,Dumped (Day 32),
+UK,9,Kain Reed,21,Gateshead,Day 28,Dumped (Day 32),
+UK,9,Layla Al-Momani,28,London,Day 29,Dumped (Day 32),
+UK,9,Lydia Karakyriakou,22,Glasgow,Day 29,Dumped (Day 32),
+UK,9,Lynda Flix,22,Salford,Day 29,Dumped (Day 32),
+UK,9,Ryan Weekley,22,Nottingham,Day 28,Dumped (Day 32),
+UK,9,Sammy James,27,Leicester,Day 29,Dumped (Day 32),
+UK,9,Ellie Spence,25,Norwich,Day 10,Dumped (Day 26),
+UK,9,Jordan Odofin,28,London,Day 17,Dumped (Day 26),
+UK,9,Tanyel Revan,26,London,Day 1,Dumped (Day 24),
+UK,9,Aaron Waters,25,"Melbourne, Australia",Day 7,Dumped (Day 19),
+UK,9,Spencer Wilks,24,Bournemouth,Day 10,Dumped (Day 19),
+UK,9,Zara Lackenby-Brown,25,London,Day 3,Dumped (Day 16),
+UK,9,Anna-May Robey,20,Swansea,Day 1,Dumped (Day 9),
+UK,9,Haris Namani,21,Doncaster,Day 1,Dumped (Day 9),
+UK,9,David Salako,24,Little Oakley,Day 3,Dumped (Day 5),
+UK,10,Jess Harding,22,Uxbridge,Day 1,Winner (Day 58),
+UK,10,Sammy Root,22,Dartford,Day 4,Winner (Day 58),
+UK,10,Lochan Nowacki,25,Bermondsey,Day 26,Runner-up (Day 58),
+UK,10,Whitney Adebayo,25,Camden,Day 3,Runner-up (Day 58),
+UK,10,Ella Thomas,23,Glasgow,Day 1,Third place (Day 58),
+UK,10,Tyrique Hyde,24,Grays,Day 1,Third place (Day 58),
+UK,10,Molly Marsh,21,Doncaster,Day 1,Dumped (Day 19),
+UK,10,Molly Marsh,21,Doncaster,Day 27,Fourth place (Day 58),
+UK,10,Zachariah Noble,25,Lewisham,Day 1,Fourth place (Day 58),
+UK,10,Ella Barnes,23,Ashford,Day 39,Dumped (Day 56),
+UK,10,Mitchel Taylor,26,Sheffield,Day 1,Dumped (Day 56),
+UK,10,Abi Moores,25,Hampshire,Day 27,Dumped (Day 52),
+UK,10,Scott van-der-Sluis,22,Connah's Quay,Day 11,Dumped (Day 52),
+UK,10,Kady McDermott,27,Stevenage,Day 19,Dumped (Day 44),
+UK,10,"Ousman ""Ouzy"" See",28,Edinburgh,Day 26,Dumped (Day 44),
+UK,10,Amber Wise,19,Kensington,Day 27,Dumped (Day 44),
+UK,10,Josh Brocklebank,26,Brentwood,Day 39,Dumped (Day 44),
+UK,10,Leah Taylor,27,Manchester,Day 8,Dumped (Day 38),
+UK,10,Montel McKenzie,25,London,Day 16,Dumped (Day 38),
+UK,10,Catherine Agbaje,22,Tyrrelstown,Day 1,Dumped (Day 38),
+UK,10,Elom Ahlijah-Wilson,22,Enfield,Day 26,Dumped (Day 38),
+UK,10,Benjamin Noel,26,London,Day 26,Dumped (Day 31),
+UK,10,Danielle Mazhindu,25,Liverpool,Day 27,Dumped (Day 31),
+UK,10,"Gabrielle ""Gabby"" Jeffery",24,Tyneside,Day 27,Dumped (Day 31),
+UK,10,Kodie Murphy,20,Birmingham,Day 26,Dumped (Day 31),
+UK,10,Tink Reading,26,Birmingham,Day 27,Dumped (Day 31),
+UK,10,Zachary Ashford,27,Manchester,Day 26,Dumped (Day 31),
+UK,10,Mal Nicol,25,Edinburgh,Day 16,Dumped (Day 23),
+UK,10,Mehdi Edno,26,"Bordeaux, France",Day 1,Dumped (Day 23),
+UK,10,André Furtado,21,Dudley,Day 1,Dumped (Day 12),
+UK,10,Charlotte Sumner,30,Bournemouth,Day 8,Dumped (Day 12),
+UK,10,Ruchee Gurung,24,Sutton,Day 1,Dumped (Day 9),
+UK,10,George Fensom,24,Bedford,Day 1,Dumped (Day 5),
+UK,11,Josh Oyinsan,29,South London,Day 36,Winner (Day 58),
+UK,11,"Michelle ""Mimii"" Ngulube",24,Portsmouth,Day 1,Winner (Day 58),
+UK,11,Ciaran Davies,21,Pencoed,Day 1,Runner-up (Day 58),
+UK,11,Nicole Samuel,24,Aberdare,Day 1,Runner-up (Day 58),
+UK,11,Matilda Draper,24,Beckenham,Day 17,Third place (Day 58),
+UK,11,Sean Stone,24,Hertford,Day 1,Third place (Day 58),
+UK,11,Ayo Odukoya,25,Canning Town,Day 1,Fourth place (Day 58),
+UK,11,Jess Spencer,25,London,Day 29,Fourth place (Day 58),
+UK,11,Jessy Potts,25,Leicester,Day 23,Dumped (Day 55),
+UK,11,Joey Essex,33,Chigwell,Day 1,Dumped (Day 55),
+UK,11,Grace Jackson,25,Manchester,Day 12,Dumped (Day 52),
+UK,11,Reuben Collins,23,Chertsey,Day 36,Dumped (Day 52),
+UK,11,Harry Baker,25,Birmingham,Day 44,Dumped (Day 49),
+UK,11,Lola Deluca,22,Surrey,Day 44,Dumped (Day 49),
+UK,11,Konnor Ewudzi,28,Cornwall,Day 17,Dumped (Day 44),
+UK,11,"Lauren ""Lolly"" Hart",30,Loughborough,Day 39,Dumped (Day 44),
+UK,11,Blade Siddiqi,29,Stevenage,Day 28,Dumped (Day 38),
+UK,11,Emma Milton,30,Manchester,Day 29,Dumped (Day 38),
+UK,11,Hugo Godfroy,24,Southampton,Day 28,Dumped (Day 38),
+UK,11,Jess White,25,Stockport,Day 1,Dumped (Day 38),
+UK,11,Uma Jammeh,23,Islington,Day 3,Walked (Day 37),
+UK,11,Wil Anderson,23,Whitley Bay,Day 12,Dumped (Day 37),
+UK,11,Ellie Jackson,22,Cardiff,Day 29,Dumped (Day 35),
+UK,11,Trey Norman,24,Doncaster,Day 23,Dumped (Day 35),
+UK,11,Diamanté Laiva,21,Beckenham,Day 29,Dumped (Day 31),
+UK,11,Jake Spivey,25,Rayleigh,Day 28,Dumped (Day 31),
+UK,11,Joel Kirby,22,Devon,Day 28,Dumped (Day 31),
+UK,11,Lionel Awudu,24,Reading,Day 28,Dumped (Day 31),
+UK,11,Lucy Graybill,26,Gourock,Day 29,Dumped (Day 31),
+UK,11,Moziah Pinder,29,Brighton,Day 28,Dumped (Day 31),
+UK,11,Ruby Dale,23,Surrey,Day 29,Dumped (Day 31),
+UK,11,Harriett Blackmore,24,Brighton,Day 1,Dumped (Day 26),
+UK,11,Ronnie Vint,27,Greenwich,Day 1,Dumped (Day 26),
+UK,11,Omar Nyame,25,Croydon,Day 5,Dumped (Day 21),
+UK,11,Tiffany Leighton,25,Royston,Day 12,Dumped (Day 21),
+UK,11,Samantha Kenny,26,Liverpool,Day 1,Dumped (Day 16),
+UK,11,Munveer Jabbal,30,Surbiton,Day 1,Dumped (Day 10),
+UK,11,Patsy Field,29,Orpington,Day 1,Dumped (Day 10),
+UK,11,Sam Taylor,23,Chesterfield,Day 1,Dumped (Day 2),
+UK,12,"Antonia ""Toni"" Laites",24,"Connecticut, U.S.",Day 1,Winner (Day 58),
+UK,12,"Cacherel ""Cach"" Mercer",24,East London,Day 29,Winner (Day 58),
+UK,12,Harry Cooksley,30,Guildford,Day 1,Runner-up (Day 58),
+UK,12,Shakira Khan,22,Burnley,Day 1,Runner-up (Day 58),
+UK,12,Jamie Rhodes,26,Barking,Day 29,Third place (Day 58),
+UK,12,Yasmin Pettet,24,London,Day 5,Third place (Day 58),
+UK,12,"Angelique ""Angel"" Swift",26,Maidstone,Day 38,Fourth place (Day 58),
+UK,12,Ty Isherwood,23,Barnsley,Day 29,Fourth place (Day 58),
+UK,12,Dejon Noel-Williams,26,Watford,Day 1,Dumped (Day 56),
+UK,12,"Megan ""Meg"" Moore",25,Southampton,Day 1,Dumped (Day 56),
+UK,12,Conor Phillips,25,Limerick,Day 1,Dumped (Day 53),
+UK,12,Megan Forte Clarke,24,Dublin,Day 1,Dumped (Day 19),
+UK,12,Megan Forte Clarke,24,Dublin,Day 44,Re-dumped (Day 53),
+UK,12,Blu Chegini,26,London,Day 1,Dumped (Day 4),
+UK,12,Blu Chegini,26,London,Day 44,Re-dumped (Day 51),
+UK,12,Helena Ford,29,London,Day 1,Dumped (Day 51),
+UK,12,"Bilikis ""Billykiss"" Azeez",28,Dublin,Day 23,Dumped (Day 43),
+UK,12,Boris Vidović,28,"Ljubljana, Slovenia",Day 29,Dumped (Day 43),
+UK,12,Emma Munro,30,Norwich,Day 28,Dumped (Day 43),
+UK,12,Harrison Solomon,22,Derby,Day 9,Walked (Day 39),
+UK,12,Lauren Wood,26,York,Day 28,Dumped (Day 38),
+UK,12,Lucy Quinn,21,Liverpool,Day 28,Dumped (Day 35),
+UK,12,Tommy Bradley,22,Hertfordshire,Day 1,Dumped (Day 35),
+UK,12,Andrada Pop,27,Balbriggan,Day 28,Dumped (Day 35),
+UK,12,Ben Holbrough,23,Gloucester,Day 1,Dumped (Day 35),
+UK,12,Chris Middleton,29,Manchester,Day 29,Dumped (Day 31),
+UK,12,Emily Moran,24,Aberdare,Day 5,Dumped (Day 31),
+UK,12,Giorgio Russo,30,Maidstone,Day 15,Dumped (Day 31),
+UK,12,Martin Enitan,23,South London,Day 29,Dumped (Day 31),
+UK,12,Rheo Parnell,26,Nuneaton,Day 28,Dumped (Day 31),
+UK,12,"Yasmin ""Yaz"" Broom",26,Stretford,Day 28,Dumped (Day 31),
+UK,12,Alima Gagigo,23,Glasgow,Day 1,Dumped (Day 24),
+UK,12,Ryan Bannister,27,Chesterfield,Day 23,Dumped (Day 24),
+UK,12,Remell Mullings,24,Essex,Day 3,Dumped (Day 19),
+UK,12,Caprice Alexandra,26,Romford,Day 15,Dumped (Day 17),
+UK,12,Poppy Harrison,22,Stoke-on-Trent,Day 15,Dumped (Day 17),
+UK,12,Shea Mannings,25,Bristol,Day 3,Dumped (Day 17),
+UK,12,Will Means,25,Terrington St Clement,Day 15,Dumped (Day 17),
+UK,12,Malisha Jordan,24,Broxbourne,Day 5,Dumped (Day 9),
+UK,12,Sophie Lee,29,Darwen,Day 1,Dumped (Day 2),
+US,1,Elizabeth Weber,24,"Birmingham, Michigan",Day 1,Day 30,Winner
+US,1,Zac Mirabelli,22,"Chicago, Illinois",Day 1,Day 30,Winner
+US,1,Alexandra Stewart,26,"Chestnut Hill, Pennsylvania[12]",Day 1,Day 30,Runner-up
+US,1,Dylan Curry,25,"East Meadow, New York[13]",Day 4,Day 30,Runner-up
+US,1,"Caroline ""Caro"" Viehweg",21,"Los Angeles, California[a]",Day 1,Day 30,Third place
+US,1,"Raymond ""Ray"" Gantt",23,"Hillside, New Jersey",Day 15,Day 30,Third place
+US,1,Emily Salch,21,"Groton, New York",Day 21,Day 30,Fourth place
+US,1,Weston Richey,25,"Dallas, Texas",Day 1,Day 30,Fourth place
+US,1,Kyra Green,22,"Harlem, New York[14]",Day 1,Day 27,Dumped
+US,1,Jered Youngblood,27,"Lakeland, Florida",Day 21,Day 27,Dumped
+US,1,Aissata Diallo,25,"Highbridge, New York[15]",Day 15,Day 25,Dumped
+US,1,Yamen Sanders,24,"Inglewood, California[16]",Day 1,Day 25,Dumped
+US,1,Anton Morrow,23,"Boiling Springs, Pennsylvania[17]",Day 21,Day 23,Dumped
+US,1,Eric Hall,27,"Toronto, Ontario",Day 15,Day 23,Dumped
+US,1,Kelsey Jurewicz,25,"Newark, Delaware",Day 15,Day 23,Walked
+US,1,Katrina Dimaranan,26,"San Juan, Philippines[18]",Day 9,Day 20,Dumped
+US,1,Cashel Barnett,28,"Sacramento, California",Day 1,Day 20,Dumped
+US,1,Winston Hines,29,"Lexington, Kentucky",Day 11,Day 18,Dumped
+US,1,"Marlisse ""Marli"" Tyndall",20,"Miami, Florida",Day 15,Day 18,Dumped
+US,1,George Johnson,30,"Beverly Hills, California",Day 15,Day 18,Dumped
+US,1,Christen McAllister,24,"Louisville, Kentucky[19]",Day 9,Day 13,Dumped
+US,1,Cormac Murphy,26,"Ennis, Ireland[20]",Day 4,Day 13,Dumped
+US,1,Alana Morrison,21,"New Haven, Connecticut",Day 1,Day 11,Dumped
+US,1,Mallory Santic,26,"Vancouver, Washington",Day 1,Day 11,Dumped
+US,1,Michael Yi,29,"Miami, Florida",Day 1,Day 6,Dumped
+US,2,Caleb Corprew,24,"Oklahoma City, Oklahoma",Day 5,Day 40,Winner
+US,2,Justine Ndiba,27,"Rockaway, New Jersey",Day 1,Day 40,Winner
+US,2,Cely Vazquez,24,"Sacramento, California",Day 1,Day 40,Runner-up
+US,2,Johnny Middlebrooks,22,"Chesapeake, Virginia",Day 1,Day 40,Runner-up
+US,2,Calvin Cobb,25,"Houston, Texas",Day 5,Day 40,Third place
+US,2,Moira Tumas,28,"Brielle, New Jersey",Day 1,Day 40,Third place
+US,2,Carrington Rodriguez,23,"Salt Lake City, Utah",Day 1,Day 40,Fourth place
+US,2,Laurel Goldman,22,"Auburn, Alabama",Day 16,Day 40,Fourth place
+US,2,Bennett Sipes,26,"Baltimore, Maryland",Day 26,Day 37,Dumped
+US,2,Lakeyn Call,21,"Yorktown, Virginia",Day 30,Day 37,Dumped
+US,2,Julia Hall,26,"Fayetteville, North Carolina",Day 30,Day 33,Dumped
+US,2,Kierstan Saulter,23,"Castroville, Texas",Day 2,Day 33,Dumped
+US,2,Bennie Bivens,24,"Barnegat, New Jersey",Day 26,Day 29,Dumped
+US,2,Connor Trott,23,"Pittsburgh, Pennsylvania",Day 1,Day 29,Dumped
+US,2,Noah Purvis,24,"Imperial, Missouri",Day 26,Day 28,Removed
+US,2,Aaron Owen,26,"Henderson, Nevada",Day 16,Day 25,Dumped
+US,2,Jalen Noble,27,"Nashville, Tennessee",Day 16,Day 25,Dumped
+US,2,Mackenzie Dipman,24,"Scottsdale, Arizona",Day 1,Day 25,Dumped
+US,2,Sheribel 'Sher' Suarez,22,"Orlando, Florida",Day 16,Day 25,Dumped
+US,2,De'Andre Asbury-Heath,25,"North Miami Beach, Florida",Day 16,Day 19,Dumped
+US,2,Mike Jenkerson,26,"San Jose, California",Day 16,Day 19,Dumped
+US,2,Patrick 'Pat' Albasha,28,"San Dimas, California",Day 16,Day 19,Dumped
+US,2,Faith Tyrell,26,"Kansas City, Missouri",Day 16,Day 19,Dumped
+US,2,GiNiele 'Gigi' Reitzell,24,"Paramount, California",Day 16,Day 19,Dumped
+US,2,Mercades Schell,26,"Las Cruces, New Mexico",Day 16,Day 19,Dumped
+US,2,Trevon 'Tre' Forte,25,"Boca Raton, Florida",Day 1,Day 14,Dumped
+US,2,Lauren Coogan,29,"Oxford, United Kingdom[a]",Day 10,Day 14,Dumped
+US,2,Rachel Lundell,21,"Minneapolis, Minnesota",Day 2,Day 12,Dumped
+US,2,Jeremiah White,22,"De Kalb, Mississippi",Day 1,Day 9,Dumped
+US,2,James McCool,27,"Winchester, Virginia",Day 1,Day 9,Dumped
+US,2,Kaitlynn Anderson,27,"Lapeer, Michigan",Day 1,Day 5,Dumped
+US,3,Korey Gandy,28,"Virginia Beach, Virginia",Day 1,Day 40,Winner
+US,3,Olivia Kaiser,28,"Anchorage, Alaska",Day 1,Day 40,Winner
+US,3,Kyra Lizama,23,"Honolulu, Hawaii",Day 1,Day 40,Runner-up
+US,3,Will Moncada,26,"Medellín, Colombia[a]",Day 1,Day 40,Runner-up
+US,3,Bailey Marshall,23,"Portland, Oregon",Day 26,Day 40,Third place
+US,3,Jeremy Hershberg,27,"New York, New York",Day 1,Day 40,Third place
+US,3,Alana Paolucci,28,"Buffalo, New York / Manhattan, New York",Day 26,Day 40,Fourth place
+US,3,Charlie Lynch,30,"Houston, Texas",Day 19,Day 40,Fourth place
+US,3,Andre Brunelli,28,"Jacksonville, Florida",Day 30,Day 38,Dumped
+US,3,Trina Njoroge,25,"Hacienda Heights, California",Day 1,Day 38,Dumped
+US,3,Elly Steffen,22,"Chicago, Illinois",Day 26,Day 34,Dumped
+US,3,K-Ci Maultsby,27,"Atlanta, Georgia",Day 30,Day 34,Dumped
+US,3,Cashay Proudfoot,25,"Brooklyn, New York",Day 1,Day 32,Dumped
+US,3,Josh Goldstein,24,"Haverhill, Massachusetts",Day 1,Day 31,Walked
+US,3,Shannon St. Clair,25,"Warminster, Pennsylvania",Day 1,Day 31,Walked
+US,3,Genevieve Shawcross,22,"West Chester, Pennsylvania",Day 19,Day 25,Dumped
+US,3,"Melvin ""Cinco"" Holland, Jr.",25,"Ashburn, Virginia",Day 1,Day 25,Dumped
+US,3,Leslie Golden,24,"Redwater, Texas",Day 19,Day 24,Removed
+US,3,"Florence ""Flo"" Mueller",26,"Miami, Florida",Day 19,Day 22,Dumped
+US,3,Isabel Johnson,21,"Minneapolis, Minnesota",Day 19,Day 22,Dumped
+US,3,Kay Taylor,24,"Calabasas, California",Day 19,Day 22,Dumped
+US,3,Andrew John Phillips,28,"Fort Lauderdale, Florida",Day 19,Day 22,Dumped
+US,3,Gabe Sadowsky,27,"Nashua, New Hampshire",Day 19,Day 22,Dumped
+US,3,"Kamryn ""Kam"" Mickens-Bennett",25,"Summit, New Jersey",Day 19,Day 22,Dumped
+US,3,Raul Frias,24,"Hialeah, Florida",Day 19,Day 22,Dumped
+US,3,Javonny Vega,26,"Boca Raton, Florida",Day 1,Day 17,Dumped
+US,3,Wes Ogsbury,24,"Denver, Colorado",Day 12,Day 17,Dumped
+US,3,Aimee Flores,26,"Los Angeles, California",Day 3,Day 17,Dumped
+US,3,Florita Diaz,27,"Miami, Florida",Day 8,Day 17,Dumped
+US,3,Isaiah Harmison,25,"Appleton, Wisconsin",Day 6,Day 15,Dumped
+US,3,Slade Parker,27,"Rome, Georgia",Day 12,Day 14,Walked
+US,3,Lei-Yen Rapp,28,"Houston, Texas",Day 8,Day 11,Dumped
+US,3,Roxy Ahmad,24,"Croydon, United Kingdom[b]",Day 8,Day 11,Dumped
+US,3,Christian Longnecker,24,"Oahu, Hawaii",Day 1,Day 5,Dumped
+US,4,Timmy Pandolfi,29,"New York City, New York",Day 1,Day 32,Winner
+US,4,Zeta Morrison,29,"Surrey, United Kingdom[a]",Day 1,Day 32,Winner
+US,4,Isaiah Campbell,21,"Sioux Falls, South Dakota",Day 1,Day 32,Runner-up
+US,4,Sydney Paight,22,"Houston, Texas",Day 1,Day 32,Runner-up
+US,4,"Deborah ""Deb"" Chubb",26,"Dallas, Texas",Day 1,Day 32,Third place
+US,4,Jesse Bray,27,"Springfield, Ohio",Day 1,Day 32,Third place
+US,4,Jeff Christian,25,"Cincinnati, Ohio",Day 8,Day 31,Walked
+US,4,Nadjha Day,23,"Atlanta, Georgia",Day 12,Day 31,Walked
+US,4,Chad Robinson,23,"Clarkston, Michigan",Day 16,Day 30,Dumped
+US,4,Phoebe Siegel,21,"Bedford Hills, New York",Day 16,Day 30,Dumped
+US,4,Mackenzie Dipman,25,"Scottsdale, Arizona",Day 23,Day 28,Walked
+US,4,Joel Bierwert,27,"Northampton, Massachusetts",Day 21,Day 28,Dumped
+US,4,Courtney Boerner,24,"Winter Park, Florida",Day 1,Day 24,Dumped
+US,4,"Katherine ""Kat"" Gibson",21,"Manassas, Virginia",Day 12,Day 22,Walked
+US,4,Chanse Corbi,21,"Los Angeles, California",Day 16,Day 22,Dumped
+US,4,Jared Hassim,23,"Los Angeles, California",Day 12,Day 22,Dumped
+US,4,Chazz Bryant,21,"Clifton, New Jersey",Day 6,Day 22,Dumped
+US,4,"Gabriella ""Bella"" Barbaro",22,"Oakdale, New York",Day 16,Day 22,Dumped
+US,4,"Nicholas ""Nic"" Birchall",22,"Caracas, Venezuela[b]",Day 16,Day 21,Walked
+US,4,Kyle Fraser,29,"Buffalo, New York",Day 16,Day 20,Removed
+US,4,Avery Grooms,24,"Fresno, California",Day 16,Day 19,Dumped
+US,4,Gabby Kiszka,23,"Westwood, New Jersey",Day 16,Day 19,Dumped
+US,4,Jordan Morello,28,"Plantation, Florida",Day 16,Day 19,Dumped
+US,4,Sam Kornse,24,"Phillipsburg, New Jersey",Day 16,Day 19,Dumped
+US,4,Tigerlily Cooley,24,"Seattle, Washington",Day 16,Day 19,Dumped
+US,4,Tre Watson,26,"Corona, California",Day 16,Day 19,Dumped
+US,4,"Madison ""Mady"" McLanahan",26,"Dallas, Texas",Day 1,Day 15,Walked
+US,4,Bryce Fins,30,"San Diego, California",Day 8,Day 15,Dumped
+US,4,Sereniti Springs,28,"Clovis, California",Day 1,Day 13,Dumped
+US,4,Bria Bryant,24,"Clifton, New Jersey",Day 6,Day 11,Dumped
+US,4,Andy Voyen,23,"Minneapolis, Minnesota",Day 1,Day 11,Dumped
+US,4,Felipe Gomes,32,"São Paulo, Brazil[c]",Day 1,Day 9,Dumped
+US,4,Tyler Radziszewski,23,"Cleveland, Ohio",Day 4,Day 7,Dumped
+US,4,"Valerie ""Val"" Bragg",23,"San José, Costa Rica[d]",Day 1,Day 5,Dumped
+US,5,Hannah Wright,24,"Palm Springs, California",Day 2,Day 32,Winner
+US,5,Marco Donatelli,22,"Girard, Ohio",Day 1,Day 32,Winner
+US,5,"Kassandra ""Kassy"" Castillo",22,"Fort Worth, Texas",Day 1,Day 32,Runner-up
+US,5,Leonardo Dionicio,21,"West Hartford, Connecticut",Day 1,Day 32,Runner-up
+US,5,"Carsten ""Bergie"" Bergersen",23,"Cottage Grove, Minnesota",Day 1,Day 32,Third place
+US,5,Taylor Smith,24,"Orange County, California",Day 17,Day 32,Third place
+US,5,Carmen Kocourek,22,"Milwaukee, Wisconsin",Day 2,Day 32,Fourth place
+US,5,Kenzo Nudo,26,"Phoenix, Arizona",Day 10,Day 32,Fourth place
+US,5,Johnnie Garcia,25,"Whittier, California",Day 17,Day 30,Dumped
+US,5,Scott van-der-Sluis,22,"Connah's Quay, United Kingdom",Day 25,Day 30,Dumped
+US,5,Destiny Davis,27,"Florissant, Missouri",Day 1,Day 30,Dumped
+US,5,Kyle Darden,24,"Floral Park, New York",Day 16,Day 30,Dumped
+US,5,Imani Wheeler,22,"Sacramento, California",Day 13,Day 28,Dumped
+US,5,"Isiah ""Zay"" Harayda",23,"Long Island, New York",Day 16,Day 28,Dumped
+US,5,Matia Marcantuoni,29,"Toronto, Ontario, Canada",Day 16,Day 27,Dumped
+US,5,Jonah Allman,24,"Rancho Murieta, California",Day 10,Day 24,Walked
+US,5,"Vickala ""Kay Kay"" Gray",25,"Palestine, Texas",Day 1,Day 24,Walked
+US,5,Mike Stark,22,"Augusta, Georgia",Day 13,Day 24,Dumped
+US,5,Taylor Chmelka,23,"San Diego, California",Day 17,Day 24,Dumped
+US,5,Keenan Anunay,23,"Washington, D.C.",Day 1,Day 24,Dumped
+US,5,Hannah Ortega,22,"Coral Springs, Florida",Day 18,Day 24,Dumped
+US,5,Allie Ryan,28,"Madison, Wisconsin",Day 17,Day 21,Dumped
+US,5,Ashley Sims,23,"Jefferson City, Missouri",Day 17,Day 21,Dumped
+US,5,Brandon Janse Van Vuuren,22,"Johannesburg, Gauteng, South Africa",Day 16,Day 21,Dumped
+US,5,Dasja Johnson,27,"Harrells, North Carolina",Day 17,Day 21,Dumped
+US,5,Eddie Brown,26,"Lagos, Nigeria",Day 16,Day 21,Dumped
+US,5,Najah Fleary,25,"Bladensburg, Maryland",Day 17,Day 21,Dumped
+US,5,"Robert ""Rob"" Rausch",24,"Florence, Alabama",Day 16,Day 21,Dumped
+US,5,Harrison Luna,26,"Adelaide, South Australia, Australia",Day 4,Day 15,Dumped
+US,5,Emily Chavez,25,"Houston, Texas",Day 10,Day 15,Dumped
+US,5,Anna Kurdys,22,"Boca Raton, Florida",Day 1,Day 11,Walked
+US,5,Victor Gonzalez,28,"Atlanta, Georgia",Day 1,Day 8,Dumped
+US,5,Jasmine Sklavanitis,24,"Mount Morris, Illinois",Day 1,Day 5,Dumped
+US,6,Kordell Beckham,22,"Dallas, Texas",Day 1,Day 32,Winner
+US,6,Serena Page,24,"Houston, Texas",Day 1,Day 32,Winner
+US,6,Leah Kateb,25,"Bell Canyon, California",Day 1,Day 32,Runner-up
+US,6,Miguel Harichi,27,"Camden Town, England, United Kingdom",Day 9,Day 32,Runner-up
+US,6,JaNa Craig,27,"Las Vegas, Nevada",Day 1,Day 32,Third place
+US,6,"Kenneth ""Kenny"" Rodriguez",24,"Bronx, New York",Day 13,Day 32,Third place
+US,6,Kendall Washington,27,"San Diego, California",Day 1,Day 32,Fourth place
+US,6,Nicole Jacky,26,"Reno, Nevada",Day 6,Day 32,Fourth place
+US,6,"Kassandra ""Kassy"" Castillo",23,"Fort Worth, Texas",Day 27,Day 30,Dumped
+US,6,"Robert ""Rob"" Rausch",25,"Florence, Alabama",Day 1,Day 30,Dumped
+US,6,Aaron Evans,26,"North Devon, England, United Kingdom",Day 1,Day 30,Dumped
+US,6,Kaylor Martin,22,"Connellsville, Pennsylvania",Day 1,Day 30,Dumped
+US,6,Daniela Ortiz-Rivera,22,"Longwood, Florida",Day 17,Day 27,Dumped
+US,6,Harrison Luna,27,"Adelaide, South Australia, Australia",Day 24,Day 27,Dumped
+US,6,Sierra Mills,22,"San Marcos, California",Day 17,Day 27,Dumped
+US,6,Caine Bacon,28,"Norwich, England, United Kingdom",Day 17,Day 25,Dumped
+US,6,Catherine Marshall,24,"Hillsboro, Oregon",Day 17,Day 24,Dumped
+US,6,Daia McGhee,27,"Los Angeles, California",Day 17,Day 24,Dumped
+US,6,"Olivia ""Liv"" Walker",21,"Sydney, New South Wales, Australia",Day 2,Day 24,Dumped
+US,6,Destiny Herzog,22,"Scottsdale, Arizona",Day 17,Day 20,Dumped
+US,6,George Vining,23,"Athens, Georgia",Day 17,Day 20,Dumped
+US,6,Ignacio Ferrari,28,"Buenos Aires, Argentina",Day 17,Day 20,Dumped
+US,6,Jacobi Graham,23,"Gonzales, Louisiana",Day 17,Day 20,Dumped
+US,6,Jalen Oliver,24,"Hagerstown, Indiana",Day 17,Day 20,Dumped
+US,6,Josiah Roebuck,25,"Saint Thomas, U.S. Virgin Islands",Day 17,Day 20,Dumped
+US,6,Sydney Leighton,24,"Rumson, New Jersey",Day 17,Day 20,Dumped
+US,6,Nigel Okafor,28,"Ann Arbor, Michigan",Day 13,Day 16,Dumped
+US,6,Cassidy Laudano,27,"Chicago, Illinois",Day 13,Day 16,Dumped
+US,6,Connor Newsum,28,"Santa Monica, California",Day 2,Day 15,Dumped
+US,6,Andrea Carmona,25,"Miami, Florida",Day 6,Day 11,Dumped
+US,6,Hakeem White,29,"Miami, Florida",Day 2,Day 11,Dumped
+US,6,Hannah Smith,26,"Concord, North Carolina",Day 1,Day 10,Dumped
+US,6,Coye Simmons,28,"Winston-Salem, North Carolina",Day 1,Day 4,Dumped
+US,7,Amaya Espinal,25,"New York City, New York",Day 5,Day 32,Winner
+US,7,Bryan Arenales,27,"Boston, Massachusetts",Day 17,Day 32,Winner
+US,7,"Nicolas ""Nic"" Vansteenberghe",24,"Jacksonville, Florida",Day 1,Day 32,Runner-up
+US,7,Olandria Carthen,27,"Decatur, Alabama",Day 1,Day 32,Runner-up
+US,7,Chris Seeley,27,"Fresno, California",Day 17,Day 32,Third place
+US,7,Huda Mustafa,24,"Raleigh, North Carolina",Day 1,Day 32,Third place
+US,7,Iris Kendall,25,"Los Angeles, California",Day 9,Day 32,Fourth place
+US,7,"Jose ""Pepe"" Garcia-Gonzalez",27,"Santa Ana, California",Day 9,Day 32,Fourth place
+US,7,"Allen ""Ace"" Greene",22,"Los Angeles, California",Day 1,Day 30,Dumped
+US,7,"Michelle ""Chelley"" Bissainthe",27,"Orlando, Florida",Day 1,Day 30,Dumped
+US,7,Clarke Carraway,24,"Charlotte, North Carolina",Day 17,Day 28,Dumped
+US,7,Taylor Williams,25,"Oklahoma City, Oklahoma",Day 1,Day 28,Dumped
+US,7,Elan Bibas,24,"Toronto, Canada",Day 17,Day 26,Dumped
+US,7,Zak Srakaew,29,"Roi Et, Thailand / Manchester, England[a]",Day 17,Day 26,Dumped
+US,7,Cierra Ortega,25,"Phoenix, Arizona",Day 2,Day 26,Removed
+US,7,Andreina Santos-Marte,24,"Jersey City, New Jersey",Day 14,Day 24,Dumped
+US,7,Austin Shepard,26,"Northville, Michigan",Day 1,Day 24,Dumped
+US,7,Gracyn Blackmore,25,"Bristol, Virginia",Day 17,Day 24,Dumped
+US,7,Jaden Duggar,25,"Los Angeles, California",Day 17,Day 24,Dumped
+US,7,"Thomas ""TJ"" Palma",23,"Westchester, New York",Day 14,Day 24,Dumped
+US,7,"Courtney ""Coco"" Watson",24,"Los Angeles, California",Day 17,Day 20,Dumped
+US,7,JD Dodard,23,"Dallas, Texas",Day 17,Day 20,Dumped
+US,7,"Savanna ""Vanna"" Einerson",21,"Salt Lake City, Utah",Day 17,Day 20,Dumped
+US,7,"Zachary ""Zac"" Woodworth",26,"Portland, Oregon",Day 17,Day 20,Dumped
+US,7,Jeremiah Brown,25,"Seattle, Washington",Day 1,Day 16,Dumped
+US,7,Hannah Fields,23,"Tucson, Arizona",Day 5,Day 16,Dumped
+US,7,Jalen Brown,27,"Sparta, Georgia",Day 9,Day 13,Dumped
+US,7,Charlie Georgiou,27,"Birmingham, United Kingdom",Day 2,Day 11,Dumped
+US,7,"Isabelle-Anne ""Belle-A"" Walker",22,"Gold Beach, Oregon[20]",Day 1,Day 6,Dumped
+US,7,Yulissa Escobar,27,"Miami, Florida",Day 1,Day 3,Removed
+AU,1,Grant Crapp,22,Canberra,Day 1,Winner (Day 39),
+AU,1,Tayla Damir,21,Perth,Day 1,Winner (Day 39),
+AU,1,Eden Dally,25,Sydney,Day 1,Runner-up (Day 39),
+AU,1,Erin Barnett,23,Melbourne,Day 1,Runner-up (Day 39),
+AU,1,Amelia Plummer,23,Sydney,Day 23,Third place (Day 39),
+AU,1,Josh Moss,25,Sydney,Day 1,Third place (Day 39),
+AU,1,Dom Thomas,26,Sydney,Day 16,Dumped (Day 38),
+AU,1,Shelby Bilby,25,Gold Coast,Day 23,Dumped (Day 38),
+AU,1,Mark O'Dare,26,Sydney,Day 31,Dumped (Day 37),
+AU,1,Millie Fuller,24,Sydney,Day 1,Dumped (Day 37),
+AU,1,"Edyn ""Mac"" Mackney",22,Gold Coast,Day 14,Dumped (Day 36),
+AU,1,Teddy Briggs,25,Adelaide,Day 21,Dumped (Day 36),
+AU,1,Kory Grant,28,Melbourne,Day 31,Dumped (Day 35),
+AU,1,Jaxon Human,24,Melbourne,Day 11,Dumped (Day 30),
+AU,1,Françoise Draschler,28,Melbourne,Day 8,Dumped (Day 26),
+AU,1,Cassidy McGill,24,Melbourne,Day 1,Dumped (Day 25),
+AU,1,Elias Chigros,27,Melbourne,Day 4,Dumped (Day 18),
+AU,1,Justin Lacko,27,Melbourne,Day 1,Dumped (Day 18),
+AU,1,Natasha Cherie,24,Perth,Day 1,Dumped (Day 15),
+AU,1,John James Parton,32,Melbourne,Day 4,Walked (Day 11),
+AU,1,Kim Hartnett,21,Brisbane,Day 2,Dumped (Day 9),
+AU,1,Charlie Taylor,22,Sydney,Day 1,Dumped (Day 7),
+AU,2,Anna McEvoy,27,Melbourne,Day 4,Winner (Day 36),
+AU,2,Josh Packham,25,Northern Beaches,Day 8,Winner (Day 36),
+AU,2,Cartier Surjan,19,Sydney,Day 1,Runner-up (Day 36),
+AU,2,Matthew Zukowski,23,Melbourne,Day 1,Runner-up (Day 36),
+AU,2,Aaron Deacon Shaw,27,Gold Coast,Day 17,Third Place (Day 36),
+AU,2,Cynthia Taylu,23,Brisbane,Day 1,Third Place (Day 36),
+AU,2,Jessie Wynter,23,Hobart,Day 1,Fourth place (Day 30),
+AU,2,Todd Elton,26,Melbourne,Day 21,Fourth place (Day 30),
+AU,2,Blake Williamson,28,Gold Coast,Day 21,Dumped (Day 29),
+AU,2,Margarita Smith,26,Melbourne,Day 25,Dumped (Day 29),
+AU,2,Adam Farrugia,27,Gold Coast,Day 1,Dumped (Day 27),
+AU,2,Isabelle Green,27,Brisbane,Day 15,Dumped (Day 26),
+AU,2,Luke Packham,25,Northern Beaches,Day 8,Dumped (Day 26),
+AU,2,Cassie Lansdell,26,Sydney,Day 1,Dumped (Day 26),
+AU,2,Gerard Majda,23,Perth,Day 1,Walked (Day 22),
+AU,2,Biannca Furchtman,25,Sydney,Day 15,Dumped (Day 20),
+AU,2,Jordan Cayless,28,Perth,Day 15,Dumped (Day 20),
+AU,2,Eoghan Murphy,24,Gold Coast,Day 2,Dumped (Day 19),
+AU,2,Angel Ellis-Holley,19,Brisbane,Day 15,Dumped (Day 17),
+AU,2,Tea Frazer,20,Perth,Day 15,Dumped (Day 17),
+AU,2,Maurice Salib,27,Sydney,Day 1,Dumped (Day 14),
+AU,2,Vanessa Joli,24,Sydney,Day 1,Dumped (Day 14),
+AU,2,Phoebe Thompson,28,Sydney,Day 4,Dumped (Day 11),
+AU,2,Sam Withers,28,Melbourne,Day 1,Dumped (Day 7),
+AU,3,Mitch Hibberd,25,Melbourne,Day 3,Winner (Day 45),
+AU,3,Tina Provis,25,Sydney,Day 1,Winner (Day 45),
+AU,3,Aaron Waters,24,Perth,Day 1,Runner-up (Day 45),
+AU,3,Jess Velkovski,23,Cronulla,Day 1,Runner-up (Day 45),
+AU,3,Chris Graudins,25,Gold Coast,Day 3,Runner-up (Day 45),
+AU,3,Zoe Clish,25,Gold Coast,Day 14,Runner-up (Day 45),
+AU,3,Courtney Stubbs,23,Gold Coast,Day 1,Dumped (Day 43),
+AU,3,Noah Hura,23,Perth,Day 23,Dumped (Day 43),
+AU,3,Taku Chimwaza,24,Wollongong,Day 1,Dumped (Day 41),
+AU,3,Michela Louis,25,Sydney,Day 21,Dumped (Day 41),
+AU,3,Hugh Yates,24,Northern Beaches,Day 30,Dumped (Day 41),
+AU,3,Eliza Kennedy,26,Brisbane,Day 35,Dumped (Day 41),
+AU,3,Jade Ashelford,21,Sunshine Coast,Day 35,Dumped (Day 39),
+AU,3,Lexy Thornberry,20,Brisbane,Day 2,Dumped (Day 39),
+AU,3,Ryan Reid,25,Terrigal,Day 1,Dumped (Day 35),
+AU,3,Tayla Mellington,26,Gold Coast,Day 21,Dumped (Day 35),
+AU,3,Ben Giobbi,25,Melbourne,Day 23,Dumped (Day 30),
+AU,3,Aisha Campbell,23,Perth,Day 21,Dumped (Day 26),
+AU,3,Audrey Kanongara,21,Brisbane,Day 21,Dumped (Day 26),
+AU,3,Brent Crapp,25,Central Coast,Day 23,Dumped (Day 26),
+AU,3,Brianna Marchant,20,Brisbane,Day 21,Dumped (Day 26),
+AU,3,Nicolas Love,22,Sydney,Day 14,Dumped (Day 26),
+AU,3,Ruby Ennor,25,Gold Coast,Day 21,Dumped (Day 26),
+AU,3,Sadee Sub Luban,22,Sydney,Day 23,Dumped (Day 26),
+AU,3,Shayne Tino,27,Melbourne,Day 23,Dumped (Day 26),
+AU,3,Emily Ward,24,Melbourne,Day 8,Dumped (Day 17),
+AU,3,Ari Kumar,25,Gold Coast,Day 1,Dumped (Day 16),
+AU,3,Ronni Krongold,21,Sydney,Day 1,Dumped (Day 16),
+AU,3,Rachael Evren,21,Gold Coast,Day 1,Dumped (Day 10),
+AU,3,Jordan Tilli,28,Melbourne,Day 1,Dumped (Day 5),
+AU,4,Austen Bugeja,22,Sydney,Day 1,Winner (Day 30),
+AU,4,Claudia Bonifazio,23,Adelaide,Day 1,Winner (Day 30),
+AU,4,Callum Hole,24,Brisbane[a],Day 2,Runner-up (Day 30),
+AU,4,Madeline Wilcox[b],25,Melbourne,Day 23,Runner-up (Day 30),
+AU,4,Mitchell Eliot,25,Sydney,Day 1,Runner-up (Day 30),
+AU,4,Phoebe Spiller,22,Sydney,Day 1,Runner-up (Day 30),
+AU,4,Al Perkins,26,Sydney,Day 8,Dumped (Day 29),
+AU,4,Jessica Losurdo,26,Sydney,Day 1,Dumped (Day 29),
+AU,4,Mitch Hibberd,25,Melbourne,Day 19,Dumped (Day 28),
+AU,4,Tina Provis,26,Sydney,Day 20,Dumped (Day 28),
+AU,4,Hugh Wilcox[b],25,Melbourne,Day 23,Dumped (Day 27),
+AU,4,Stella Hutcheon,24,Brisbane,Day 1,Dumped (Day 27),
+AU,4,Jordan Dowsett,25,Gold Coast,Day 1,Dumped (Day 26),
+AU,4,Phoebe Han,22,Brisbane,Day 12,Dumped (Day 24),
+AU,4,Tak Chipangura,23,Brisbane,Day 2,Dumped (Day 22),
+AU,4,Maddy Gillbanks,26,Perth,Day 6,Dumped (Day 21),
+AU,4,Jason Shtjefni,25,Adelaide[c],Day 18,Walked (Day 19),
+AU,4,Vakoo Kauapirua,27,Sydney,Day 12,Dumped (Day 17),
+AU,4,Ben Gleeson,25,Sydney,Day 14,Dumped (Day 16),
+AU,4,Layla John,20,Melbourne,Day 1,Dumped (Day 14),
+AU,4,Conor Howard,26,Sydney,Day 1,Dumped (Day 10),
+AU,4,Holly Oakes-Ferguson,25,Brisbane,Day 1,Dumped (Day 10),
+AU,4,Andre Coutinho,24,Perth,Day 1,Dumped (Day 5),
+AU,5,Kale Roberts,25,Gold Coast,Day 4,Dumped (Day 13),
+AU,5,Kale Roberts,25,Gold Coast,Day 16,Winner (Day 29),
+AU,5,Tyra Johannes,23,Sunshine Coast,Day 1,Winner (Day 29),
+AU,5,Clint Posselt,28,Sunshine Coast,Day 21,Runner-up (Day 29),
+AU,5,Savannah Badger,26,Adelaide,Day 1,Runner-up (Day 29),
+AU,5,Lucinda Strafford,23,"Brighton, UK",Day 2,Runner-up (Day 29),
+AU,5,Zac Nunns,25,Melbourne,Day 1,Runner-up (Day 29),
+AU,5,Chloe Jackson,23,Sydney,Day 17,Dumped (Day 28),
+AU,5,Reid Polak,26,Gold Coast,Day 3,Dumped (Day 28),
+AU,5,Georgia Murray,21,Penrith,Day 11,Dumped (Day 27),
+AU,5,Nate Page,24,Sydney,Day 1,Dumped (Day 27),
+AU,5,Andy Cosgrove,27,"Seattle, U.S.",Day 13,Dumped (Day 25),
+AU,5,Harmony Johnson,23,Sydney,Day 21,Dumped (Day 25),
+AU,5,Nakia Pires,21,Adelaide,Day 1,Dumped (Day 25),
+AU,5,Trent Woolman,25,Melbourne,Day 1,Dumped (Day 22),
+AU,5,Tasia Hafenstein,24,Brisbane,Day 15,Dumped (Day 19),
+AU,5,Abby Miller,23,Sydney,Day 7,Dumped (Day 18),
+AU,5,Seb Williams,24,Melbourne,Day 15,Dumped (Day 18),
+AU,5,Aidan Knox,29,Sydney,Day 10,Dumped (Day 16),
+AU,5,Ryan Craig-Turner,28,Wollongong,Day 10,Dumped (Day 12),
+AU,5,Tia Gregory,24,Canberra,Day 1,Dumped (Day 12),
+AU,5,Ben Richardson,22,Sydney,Day 1,Dumped (Day 11),
+AU,5,Kirra Schofield,26,Perth,Day 1,Dumped (Day 9),
+AU,5,Ollie Lawson,24,Perth,Day 1,Dumped (Day 6),
+AU,6,Em Miguel Leigh,27,Sydney,Day 1,Winner (Day 25),
+AU,6,Mercedes Knox,28,"Dallas, U.S.",Day 10,Winner (Day 25),
+AU,6,Eric Gracia,26,Sydney,Day 18,Runner-up (Day 25),
+AU,6,Kaylah Holmes,22,Manly,Day 9,Runner-up (Day 25),
+AU,6,Mia Dalkos,23,Adelaide,Day 13,Runner-up (Day 25),
+AU,6,Niko Fotopoulos,28,Sydney,Day 1,Runner-up (Day 25),
+AU,6,Dylan Towolawi,25,"Galway, Ireland",Day 1,Dumped (Day 24),
+AU,6,Sophie Mills,22,Queensland,Day 4,Dumped (Day 24),
+AU,6,Hannah Steinfeld,24,Melbourne,Day 1,Dumped (Day 14),
+AU,6,Hannah Steinfeld,24,Melbourne,Day 16,Dumped (Day 24),
+AU,6,Taylor Reid,28,Melbourne,Day 1,Dumped (Day 24),
+AU,6,Mimi Paranihi,25,Sydney,Day 1,Dumped (Day 23),
+AU,6,"Stephane ""Steph"" Blackos",25,"Paris, France",Day 6,Dumped (Day 23),
+AU,6,Jade Phalen,21,Brisbane,Day 18,Dumped (Day 21),
+AU,6,Zane Prophet,24,Gold Coast,Day 1,Dumped (Day 21),
+AU,6,Krissy Bertone,25,Perth,Day 9,Dumped (Day 16),
+AU,6,Tommy Armour,24,Gold Coast,Day 8,Walked (Day 12),
+AU,6,Sydney Paight,25,"Los Angeles, U.S.",Day 6,Dumped (Day 11),
+AU,6,Xanthe Wessen,21,Sydney,Day 1,Dumped (Day 10),
+AU,6,Indigo Carthew,23,Cairns,Day 1,Dumped (Day 8),
+AU,6,Eilisha Purcell,25,Brisbane,Day 1,Dumped (Day 5),
+AU,6,Kane Godlevsky,23,Gold Coast,Day 1,Dumped (Day 3),

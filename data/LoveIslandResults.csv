@@ -1,0 +1,775 @@
+Country,Season,Islander,Age,Hometown,Day Entered,Day Left,Status
+UK,1,Jess Hayes,22,Oxford,1,41,Winner
+UK,1,Max Morley,22,Huddersfield,14,41,Winner
+UK,1,Hannah Elizabeth,25,Liverpool,1,41,Runner-up
+UK,1,Jon Clark,25,Essex,1,41,Runner-up
+UK,1,Josh Ritchie,21,Bolton,1,41,Third place
+UK,1,Lauren Richardson,26,East London,1,41,Third place
+UK,1,Cally Jane Beech,23,Hull,21,41,Fourth place
+UK,1,Luis Morrison,20,London,1,41,Fourth place
+UK,1,Jordan Ring,31,Gloucester,1,35,Dumped
+UK,1,Zoe Basia Brown,24,South London,1,35,Dumped
+UK,1,Ben Porter,24,Wakefield,32,33,Dumped
+UK,1,Poppy Farnan,22,Chester,32,33,Dumped
+UK,1,Naomi Ball,23,East London,7,28,Dumped
+UK,1,Travis Almond,22,Essex,21,28,Dumped
+UK,1,Omar Sultani,22,Leamington Spa,1,21,Dumped
+UK,1,Bethany Rogers,19,Leeds,14,21,Dumped
+UK,1,Daisy Muller,24,Birmingham,7,19,Dumped
+UK,1,Chris Williamson,27,Newcastle,1,19,Dumped
+UK,1,Chris Baxter,20,London,11,14,Dumped
+UK,1,Danielle Pyne,23,London,1,14,Dumped
+UK,1,Rachel Christie,26,London,1,11,Dumped
+UK,1,John Alberti,29,Manchester,3,6,Dumped
+UK,1,Tony Alberti,29,Manchester,3,6,Dumped
+UK,2,Cara De La Hoyde,26,Kent,1,45,Winner
+UK,2,Nathan Massey,25,Essex,1,45,Winner
+UK,2,Alex Bowen,24,Wolverhampton,18,45,Runner-up
+UK,2,Olivia Buckland,22,Chelmsford,1,45,Runner-up
+UK,2,Kady McDermott,20,Stevenage,3,45,Third place
+UK,2,Scott Thomas,27,Manchester,1,45,Third place
+UK,2,Adam Maxted,24,Belfast,11,45,Fourth place
+UK,2,Katie Salmon,20,The Wirral,34,45,Fourth place
+UK,2,Emma Jane Woodham,19,Oxford,27,41,Dumped
+UK,2,Terry Walsh,28,Surrey,3,41,Dumped
+UK,2,Adam Jukes,23,Manchester,34,41,Dumped
+UK,2,Lauren Whiteside,25,Blackpool,37,41,Dumped
+UK,2,Tina Stinnes,21,London,20,40,Dumped
+UK,2,Sophie Gradon,30,Newcastle,1,39,Walked
+UK,2,Troy Frith,23,Kent,30,37,Dumped
+UK,2,Tom Powell,24,Port Talbot,1,33,Dumped
+UK,2,Liana Isadora Van Riel,20,Exeter,20,33,Dumped
+UK,2,Oliver Maxwell Fernandez,25,Hertfordshire,30,31,Dumped
+UK,2,Malin Andersson,23,Milton Keynes,1,25,Dumped
+UK,2,Zara Holland,20,Hull,1,22,Walked
+UK,2,James Khan,20,Teddington,18,20,Dumped
+UK,2,Rykard Jenkins,25,Kent,1,15,Walked
+UK,2,Daniel Lukakis,23,London,1,15,Dumped
+UK,2,Rachel Fenton,23,Hampshire,7,15,Dumped
+UK,2,Malia Arkian,26,Manchester,7,7,Removed
+UK,2,Javi Shephard,27,York,1,6,Dumped
+UK,3,Amber Davies,20,North Wales,1,52,Winner
+UK,3,Kem Cetinay,21,Essex,1,52,Winner
+UK,3,Camilla Thurlow,27,Dumfries,1,52,Runner-up
+UK,3,Jamie Jewitt,27,Essex,32,52,Runner-up
+UK,3,Chris Hughes,24,Cheltenham,4,52,Third place
+UK,3,Olivia Attwood,26,Guildford,1,52,Third place
+UK,3,Gabby Allen,25,Liverpool,7,52,Fourth place
+UK,3,Marcel Somerville,31,London,1,52,Fourth place
+UK,3,Alex Beattie,22,Newcastle,26,50,Dumped
+UK,3,Montana Brown,21,Hertfordshire,1,50,Dumped
+UK,3,Georgia Harrison,22,Essex,34,46,Dumped
+UK,3,Sam Gowland,21,Middlesbrough,1,23,Dumped
+UK,3,Sam Gowland,21,Middlesbrough,39,46,Re-dumped
+UK,3,Mike Thalassitis,24,North London,12,17,Dumped
+UK,3,Mike Thalassitis,24,North London,39,44,Re-dumped
+UK,3,Tyla Carr,23,Surrey,19,44,Dumped
+UK,3,Theo Campbell,25,Bath,32,41,Dumped
+UK,3,Jonny Mitchell,26,Essex,4,38,Dumped
+UK,3,Craig Lawson,27,London,26,31,Dumped
+UK,3,Nathan Joseph,25,Essex,26,31,Dumped
+UK,3,Danielle Sellers,22,Hastings,26,31,Dumped
+UK,3,Chyna Ellis,22,Essex,26,31,Dumped
+UK,3,Amelia Peters,18,London,26,28,Dumped
+UK,3,Dom Lever,26,Manchester,1,28,Dumped
+UK,3,Ellisha-Jade White,22,Southampton,26,28,Dumped
+UK,3,Marino Katsouris,22,Brighton,26,28,Dumped
+UK,3,Rob Lipsett,25,Dublin,26,28,Dumped
+UK,3,Shannen McGrath,23,Dublin,26,28,Dumped
+UK,3,Steve Ball,25,Wiltshire,26,28,Dumped
+UK,3,Simon Searles,28,Leeds,19,25,Dumped
+UK,3,Chloë Crowhurst,22,Essex,1,23,Dumped
+UK,3,Jessica Shears,23,Devon,1,17,Dumped
+UK,3,Tyne-Lexy Clarson,20,Birmingham,7,14,Dumped
+UK,3,Harley Judge,22,Norwich,1,6,Dumped
+UK,4,Dani Dyer,21,London,1,59,Winner
+UK,4,Jack Fincham,26,Essex,1,59,Winner
+UK,4,Laura Anderson,29,Stirling,1,59,Runner-up
+UK,4,Paul Knops,31,Bournemouth,43,59,Runner-up
+UK,4,Josh Denzel,27,London,8,59,Third place
+UK,4,Kazimir Crossley,23,London,26,59,Third place
+UK,4,Megan Barton-Hanson,24,Southend-on-Sea,8,59,Fourth place
+UK,4,Wes Nelson,20,Staffordshire,1,59,Fourth place
+UK,4,Alex George,27,Carmarthen,1,57,Dumped
+UK,4,Alexandra Cane,27,Hertfordshire,39,57,Dumped
+UK,4,Jack Fowler,22,London,26,53,Dumped
+UK,4,Laura Crane,23,Devon,43,53,Dumped
+UK,4,Josh Mair,21,Birmingham,43,50,Dumped
+UK,4,Stephanie Lam,23,Hertfordshire,43,50,Dumped
+UK,4,Georgia Steel,20,York,4,47,Dumped
+UK,4,Sam Bird,25,Norwich,19,47,Dumped
+UK,4,Charlie Brake,23,Chelsea,26,43,Dumped
+UK,4,Ellie Brown,20,Newcastle,15,43,Dumped
+UK,4,Idris Virgo,25,Birmingham,37,40,Dumped
+UK,4,Kieran Nicholls,26,London,37,40,Dumped
+UK,4,Samira Mighty,22,London,1,40,Walked
+UK,4,Frankie Foster,22,Cheltenham,26,37,Dumped
+UK,4,Grace Wardle,25,London,26,37,Dumped
+UK,4,Darylle Sargeant,24,Hertfordshire,26,33,Dumped
+UK,4,Ellie Jones,22,Essex,26,33,Dumped
+UK,4,Adam Collard,22,Newcastle,1,33,Dumped
+UK,4,Alex Miller,28,Essex,26,33,Dumped
+UK,4,Charlie Williams,24,Bath,26,30,Dumped
+UK,4,Dean Overson,25,Burnley,26,30,Dumped
+UK,4,Jordan Adefeyisan,23,Manchester,26,30,Dumped
+UK,4,Savanna Darnell,22,Sheffield,26,30,Dumped
+UK,4,Zara McDermott,21,Essex,15,25,Dumped
+UK,4,Eyal Booker,22,London,1,25,Dumped
+UK,4,Rosie Williams,26,South Wales,4,20,Dumped
+UK,4,Charlie Frederick,23,Plymouth,8,13,Dumped
+UK,4,Hayley Hughes,21,Liverpool,1,13,Dumped
+UK,4,Niall Aslam,23,Coventry,1,9,Walked
+UK,4,Kendall Rae-Knight,26,Blackpool,1,6,Dumped
+UK,5,Amber Gill,21,Newcastle,1,58,Winner
+UK,5,Greg O'Shea,24,Limerick,44,58,Winner
+UK,5,Molly-Mae Hague,20,Hitchin,4,58,Runner-up
+UK,5,Tommy Fury,20,Manchester,1,58,Runner-up
+UK,5,India Reynolds,28,Reading,44,58,Third place
+UK,5,Ovie Soko,28,London,26,58,Third place
+UK,5,Curtis Pritchard,23,Whitchurch,1,58,Fourth place
+UK,5,Maura Higgins,28,Ballymahon,10,58,Fourth place
+UK,5,Anton Danyluk,24,Airdrie,1,56,Dumped
+UK,5,Belle Hassan,21,Bromley,26,56,Dumped
+UK,5,Anna Vakili,28,London,1,52,Dumped
+UK,5,Jordan Mainoo-Hames,24,Manchester,14,52,Dumped
+UK,5,Chris Taylor,28,Leicester,37,52,Dumped
+UK,5,Harley Brash,20,Newcastle,44,52,Dumped
+UK,5,Francesca Allen,23,Loughton,37,49,Dumped
+UK,5,Michael Griffiths,27,Liverpool,1,49,Dumped
+UK,5,Joanna Chimonides,22,London,26,42,Dumped
+UK,5,Marvin Brooks,29,Poole,26,39,Dumped
+UK,5,Amy Hart,26,Worthing,1,37,Walked
+UK,5,George Rains,22,Saffron Walden,26,36,Dumped
+UK,5,Lucie Donlan,21,Newquay,1,36,Dumped
+UK,5,Danny Williams,21,Hull,7,36,Dumped
+UK,5,Jourdan Riane Hammond,24,Essex,26,36,Dumped
+UK,5,Dan Rose,21,Nuneaton,26,30,Dumped
+UK,5,Dennon Lewis,22,Watford,26,30,Dumped
+UK,5,Lavena Back,23,Croydon,26,30,Dumped
+UK,5,Maria Wild,22,Cheltenham,26,30,Dumped
+UK,5,Nabila Badda,29,London,26,30,Dumped
+UK,5,Stevie Bradley,21,Isle of Man,26,30,Dumped
+UK,5,Arabella Chi,28,London,18,25,Dumped
+UK,5,Tom Walker,29,Leeds,14,25,Dumped
+UK,5,Yewande Biala,23,Enfield,1,22,Dumped
+UK,5,Joe Garratt,22,London,1,16,Dumped
+UK,5,Elma Pazar,26,Essex,10,16,Dumped
+UK,5,Sherif Lanre,20,London,1,9,Removed
+UK,5,Callum Macleod,28,Bridgend,1,5,Dumped
+UK,6,Finn Tapp,20,Milton Keynes,5,44,Winner
+UK,6,Paige Turley,22,Fauldhouse,1,44,Winner
+UK,6,Luke Trotman,22,Luton,12,44,Runner-up
+UK,6,Siânnise Fudge,25,Bristol,1,44,Runner-up
+UK,6,Demi Jones,21,Portsmouth,16,44,Third place
+UK,6,Luke Mabbott,24,Redcar,12,44,Third place
+UK,6,Ched Uzor,23,Bury St Edmunds,23,44,Fourth place
+UK,6,Jess Gale,20,Cambridge,1,44,Fourth place
+UK,6,Mike Boateng,24,London,1,41,Dumped
+UK,6,Priscilla Anyabu,25,Battersea,23,41,Dumped
+UK,6,Callum Jones,23,Manchester,1,38,Dumped
+UK,6,Molly Smith,25,Manchester,23,38,Dumped
+UK,6,Jamie Clayton,28,Edinburgh,31,38,Dumped
+UK,6,Natalia Zoppa,20,Manchester,23,38,Dumped
+UK,6,Shaughna Phillips,25,London,1,33,Dumped
+UK,6,Eva Zapico,21,Bromley,23,30,Dumped
+UK,6,Nas Majeed,23,London,1,30,Dumped
+UK,6,Jordan Waobikeze,24,London,23,30,Dumped
+UK,6,Rebecca Gormley,21,Newcastle,9,30,Dumped
+UK,6,Alexi Eraclides,23,Essex,23,26,Dumped
+UK,6,Biggs Chris,27,Glasgow,23,26,Dumped
+UK,6,George Day,27,Southampton,23,26,Dumped
+UK,6,Jade Affleck,25,Yarm,23,26,Dumped
+UK,6,Jamie McCann,25,Stevenston,23,26,Dumped
+UK,6,Josh Kempton,21,Camberley,23,26,Dumped
+UK,6,Sophie Piper,21,Essex,1,22,Dumped
+UK,6,Wallace Wilson,24,Inverness,16,22,Dumped
+UK,6,Leanne Amaning,22,London,1,18,Dumped
+UK,6,Connor Durman,25,Brighton,1,15,Dumped
+UK,6,Connagh Howard,27,Cardiff,5,13,Dumped
+UK,6,Eve Gale,20,Cambridge,1,6,Dumped
+UK,6,Ollie Williams,23,Lanhydrock,1,4,Walked
+UK,7,Liam Reardon,21,Merthyr Tydfil,4,58,Winner
+UK,7,Millie Court,24,Romford,9,58,Winner
+UK,7,Chloe Burrows,25,Bicester,1,58,Runner-up
+UK,7,Toby Aromolaran,22,Chafford Hundred,1,58,Runner-up
+UK,7,Faye Winter,26,Exeter,1,58,Third place
+UK,7,Teddy Soares,26,Manchester,12,58,Third place
+UK,7,Kaz Kamwi,26,Witham,1,58,Fourth place
+UK,7,Tyler Cruickshank,26,London,23,58,Fourth place
+UK,7,Jake Cornish,24,Weston-super-Mare,1,54,Walked
+UK,7,Liberty Poole,21,Birmingham,1,54,Walked
+UK,7,Aaron Simpson,24,Canterbury,42,52,Dumped
+UK,7,Mary Bedford,22,Wakefield,29,52,Dumped
+UK,7,Brett Staniland,27,Draycott,44,50,Dumped
+UK,7,Priya Gopaldas,23,London,42,50,Dumped
+UK,7,Matthew MacNabb,26,Downpatrick,29,45,Dumped
+UK,7,Abigail Rawlings,27,Bournemouth,23,42,Dumped
+UK,7,Dale Mehmet,24,Glasgow,29,42,Dumped
+UK,7,Amy Day,25,West Molesey,29,38,Dumped
+UK,7,Clarisse Juliette,23,London,29,38,Dumped
+UK,7,Hugo Hammond,24,Alton,1,38,Dumped
+UK,7,Sam Jackson,23,Clitheroe,29,38,Dumped
+UK,7,Harry Young,24,Wishaw,29,32,Dumped
+UK,7,Jack Barlow,26,Pett,29,32,Dumped
+UK,7,Kaila Troy,28,Malahide,29,32,Dumped
+UK,7,Lillie Haynes,22,South Shields,29,32,Dumped
+UK,7,Medhy Malanda,24,Luton,29,32,Dumped
+UK,7,Salma Naran,20,Dublin,29,32,Dumped
+UK,7,Aaron Francis,24,London,1,28,Dumped
+UK,7,Lucinda Strafford,21,Ditchling,9,28,Dumped
+UK,7,Georgia Townend,28,Maldon,23,25,Dumped
+UK,7,"Andrea-Jane ""AJ"" Bunker",28,Dunstable,17,23,Dumped
+UK,7,Danny Bibby,25,Leigh,18,23,Dumped
+UK,7,Sharon Gaffka,25,Didcot,1,19,Dumped
+UK,7,Brad McClelland,26,Amble,1,16,Dumped
+UK,7,Rachel Finni,29,Barnet,5,14,Dumped
+UK,7,"Oliver ""Chuggs"" Wallis",23,Weybridge,4,6,Dumped
+UK,7,Shannon Singh,22,Glenrothes,1,2,Dumped
+UK,8,Davide Sanclimenti,27,Manchester,1,58,Winner
+UK,8,Ekin-Su Cülcüloğlu,27,London,3,58,Winner
+UK,8,Gemma Owen,19,Chester,1,58,Runner-up
+UK,8,Luca Bish,23,Brighton,1,58,Runner-up
+UK,8,Dami Hope,26,Dublin,1,58,Third place
+UK,8,Indiyah Polack,23,London,1,58,Third place
+UK,8,Andrew Le Page,27,Guernsey,1,58,Fourth place
+UK,8,Tasha Ghouri,23,Thirsk,1,58,Fourth place
+UK,8,Adam Collard,26,Newcastle,36,56,Dumped
+UK,8,Paige Thorne,24,Swansea,1,56,Dumped
+UK,8,Danica Taylor,21,Leicester,12,51,Dumped
+UK,8,Jamie Allen,27,Preston,45,51,Dumped
+UK,8,Deji Adeniyi,25,Bedford,26,49,Dumped
+UK,8,Lacey Edwards,25,Swindon,45,49,Dumped
+UK,8,Nathalia Campos,23,London,45,49,Dumped
+UK,8,Reece Ford,23,Coventry,45,49,Dumped
+UK,8,Billy Brown,23,Surrey,26,44,Dumped
+UK,8,Summer Botwe,22,Hertfordshire,27,44,Dumped
+UK,8,Coco Lodge,27,Surrey,27,39,Dumped
+UK,8,Josh Le Grove,22,Halstead,26,39,Dumped
+UK,8,Jacques O'Neill,23,Walney,7,37,Walked
+UK,8,Chyna Mills,23,Leeds,27,35,Dumped
+UK,8,Jay Younger,28,Edinburgh,9,35,Dumped
+UK,8,Cheyanne Kerr,23,Barnsley,27,31,Dumped
+UK,8,George Tasker,23,Cirencester,26,31,Dumped
+UK,8,Jack Keating,23,Dublin,26,31,Dumped
+UK,8,Jazmine Nichol,21,Newcastle,27,31,Dumped
+UK,8,Mollie Salmon,23,Southampton,27,31,Dumped
+UK,8,Samuel Agbiji,22,Manchester,26,31,Dumped
+UK,8,Antigoni Buxton,26,London,17,25,Dumped
+UK,8,Charlie Radnedge,28,London,17,25,Dumped
+UK,8,Amber Beckford,24,London,1,15,Dumped
+UK,8,Ikenna Ekwonna,23,Nottingham,1,15,Dumped
+UK,8,Remi Lambert,22,Manchester,9,12,Dumped
+UK,8,Afia Tonkmor,25,London,3,8,Dumped
+UK,8,Liam Llewellyn,22,Newport,1,5,Walked
+UK,9,Kai Fagan,24,Manchester,1,58,Winner
+UK,9,Sanam Harrinanan,24,Bedford,29,58,Winner
+UK,9,Lana Jenkins,25,Luton,1,58,Runner-up
+UK,9,Ron Hall,25,Essex,1,58,Runner-up
+UK,9,Samie Elishi,23,London,14,58,Third place
+UK,9,Tom Clare,23,Barnsley,1,58,Third place
+UK,9,Shaq Muhammad,24,London,1,58,Fourth place
+UK,9,Tanya Manhenga,23,Liverpool,1,58,Fourth place
+UK,9,Jessie Wynter,26,"Hobart, Australia",7,56,Dumped
+UK,9,Will Young,23,Aylesbury,1,56,Dumped
+UK,9,Casey O'Gorman,26,Tring,17,51,Dumped
+UK,9,Rosie Seabrook,24,Bledlow Ridge,39,51,Dumped
+UK,9,Claudia Fogarty,28,Blackburn,23,45,Dumped
+UK,9,Keanan Brand,24,Wigan,39,45,Dumped
+UK,9,Maxwell Samuda,23,London,28,45,Dumped
+UK,9,Olivia Hawkins,27,Brighton,1,45,Dumped
+UK,9,Martin Akinola,27,Dublin,28,40,Dumped
+UK,9,Bayley Mummery,25,Addlestone,28,32,Dumped
+UK,9,Cynthia Otseh-Taiwo,25,London,29,32,Dumped
+UK,9,Frankie Davey,22,Ipswich,28,32,Dumped
+UK,9,Kain Reed,21,Gateshead,28,32,Dumped
+UK,9,Layla Al-Momani,28,London,29,32,Dumped
+UK,9,Lydia Karakyriakou,22,Glasgow,29,32,Dumped
+UK,9,Lynda Flix,22,Salford,29,32,Dumped
+UK,9,Ryan Weekley,22,Nottingham,28,32,Dumped
+UK,9,Sammy James,27,Leicester,29,32,Dumped
+UK,9,Ellie Spence,25,Norwich,10,26,Dumped
+UK,9,Jordan Odofin,28,London,17,26,Dumped
+UK,9,Tanyel Revan,26,London,1,24,Dumped
+UK,9,Aaron Waters,25,"Melbourne, Australia",7,19,Dumped
+UK,9,Spencer Wilks,24,Bournemouth,10,19,Dumped
+UK,9,Zara Lackenby-Brown,25,London,3,16,Dumped
+UK,9,Anna-May Robey,20,Swansea,1,9,Dumped
+UK,9,Haris Namani,21,Doncaster,1,9,Dumped
+UK,9,David Salako,24,Little Oakley,3,5,Dumped
+UK,10,Jess Harding,22,Uxbridge,1,58,Winner
+UK,10,Sammy Root,22,Dartford,4,58,Winner
+UK,10,Lochan Nowacki,25,Bermondsey,26,58,Runner-up
+UK,10,Whitney Adebayo,25,Camden,3,58,Runner-up
+UK,10,Ella Thomas,23,Glasgow,1,58,Third place
+UK,10,Tyrique Hyde,24,Grays,1,58,Third place
+UK,10,Molly Marsh,21,Doncaster,1,19,Dumped
+UK,10,Molly Marsh,21,Doncaster,27,58,Fourth place
+UK,10,Zachariah Noble,25,Lewisham,1,58,Fourth place
+UK,10,Ella Barnes,23,Ashford,39,56,Dumped
+UK,10,Mitchel Taylor,26,Sheffield,1,56,Dumped
+UK,10,Abi Moores,25,Hampshire,27,52,Dumped
+UK,10,Scott van-der-Sluis,22,Connah's Quay,11,52,Dumped
+UK,10,Kady McDermott,27,Stevenage,19,44,Dumped
+UK,10,"Ousman ""Ouzy"" See",28,Edinburgh,26,44,Dumped
+UK,10,Amber Wise,19,Kensington,27,44,Dumped
+UK,10,Josh Brocklebank,26,Brentwood,39,44,Dumped
+UK,10,Leah Taylor,27,Manchester,8,38,Dumped
+UK,10,Montel McKenzie,25,London,16,38,Dumped
+UK,10,Catherine Agbaje,22,Tyrrelstown,1,38,Dumped
+UK,10,Elom Ahlijah-Wilson,22,Enfield,26,38,Dumped
+UK,10,Benjamin Noel,26,London,26,31,Dumped
+UK,10,Danielle Mazhindu,25,Liverpool,27,31,Dumped
+UK,10,"Gabrielle ""Gabby"" Jeffery",24,Tyneside,27,31,Dumped
+UK,10,Kodie Murphy,20,Birmingham,26,31,Dumped
+UK,10,Tink Reading,26,Birmingham,27,31,Dumped
+UK,10,Zachary Ashford,27,Manchester,26,31,Dumped
+UK,10,Mal Nicol,25,Edinburgh,16,23,Dumped
+UK,10,Mehdi Edno,26,"Bordeaux, France",1,23,Dumped
+UK,10,André Furtado,21,Dudley,1,12,Dumped
+UK,10,Charlotte Sumner,30,Bournemouth,8,12,Dumped
+UK,10,Ruchee Gurung,24,Sutton,1,9,Dumped
+UK,10,George Fensom,24,Bedford,1,5,Dumped
+UK,11,Josh Oyinsan,29,South London,36,58,Winner
+UK,11,"Michelle ""Mimii"" Ngulube",24,Portsmouth,1,58,Winner
+UK,11,Ciaran Davies,21,Pencoed,1,58,Runner-up
+UK,11,Nicole Samuel,24,Aberdare,1,58,Runner-up
+UK,11,Matilda Draper,24,Beckenham,17,58,Third place
+UK,11,Sean Stone,24,Hertford,1,58,Third place
+UK,11,Ayo Odukoya,25,Canning Town,1,58,Fourth place
+UK,11,Jess Spencer,25,London,29,58,Fourth place
+UK,11,Jessy Potts,25,Leicester,23,55,Dumped
+UK,11,Joey Essex,33,Chigwell,1,55,Dumped
+UK,11,Grace Jackson,25,Manchester,12,52,Dumped
+UK,11,Reuben Collins,23,Chertsey,36,52,Dumped
+UK,11,Harry Baker,25,Birmingham,44,49,Dumped
+UK,11,Lola Deluca,22,Surrey,44,49,Dumped
+UK,11,Konnor Ewudzi,28,Cornwall,17,44,Dumped
+UK,11,"Lauren ""Lolly"" Hart",30,Loughborough,39,44,Dumped
+UK,11,Blade Siddiqi,29,Stevenage,28,38,Dumped
+UK,11,Emma Milton,30,Manchester,29,38,Dumped
+UK,11,Hugo Godfroy,24,Southampton,28,38,Dumped
+UK,11,Jess White,25,Stockport,1,38,Dumped
+UK,11,Uma Jammeh,23,Islington,3,37,Walked
+UK,11,Wil Anderson,23,Whitley Bay,12,37,Dumped
+UK,11,Ellie Jackson,22,Cardiff,29,35,Dumped
+UK,11,Trey Norman,24,Doncaster,23,35,Dumped
+UK,11,Diamanté Laiva,21,Beckenham,29,31,Dumped
+UK,11,Jake Spivey,25,Rayleigh,28,31,Dumped
+UK,11,Joel Kirby,22,Devon,28,31,Dumped
+UK,11,Lionel Awudu,24,Reading,28,31,Dumped
+UK,11,Lucy Graybill,26,Gourock,29,31,Dumped
+UK,11,Moziah Pinder,29,Brighton,28,31,Dumped
+UK,11,Ruby Dale,23,Surrey,29,31,Dumped
+UK,11,Harriett Blackmore,24,Brighton,1,26,Dumped
+UK,11,Ronnie Vint,27,Greenwich,1,26,Dumped
+UK,11,Omar Nyame,25,Croydon,5,21,Dumped
+UK,11,Tiffany Leighton,25,Royston,12,21,Dumped
+UK,11,Samantha Kenny,26,Liverpool,1,16,Dumped
+UK,11,Munveer Jabbal,30,Surbiton,1,10,Dumped
+UK,11,Patsy Field,29,Orpington,1,10,Dumped
+UK,11,Sam Taylor,23,Chesterfield,1,2,Dumped
+UK,12,"Antonia ""Toni"" Laites",24,"Connecticut, U.S.",1,58,Winner
+UK,12,"Cacherel ""Cach"" Mercer",24,East London,29,58,Winner
+UK,12,Harry Cooksley,30,Guildford,1,58,Runner-up
+UK,12,Shakira Khan,22,Burnley,1,58,Runner-up
+UK,12,Jamie Rhodes,26,Barking,29,58,Third place
+UK,12,Yasmin Pettet,24,London,5,58,Third place
+UK,12,"Angelique ""Angel"" Swift",26,Maidstone,38,58,Fourth place
+UK,12,Ty Isherwood,23,Barnsley,29,58,Fourth place
+UK,12,Dejon Noel-Williams,26,Watford,1,56,Dumped
+UK,12,"Megan ""Meg"" Moore",25,Southampton,1,56,Dumped
+UK,12,Conor Phillips,25,Limerick,1,53,Dumped
+UK,12,Megan Forte Clarke,24,Dublin,1,19,Dumped
+UK,12,Megan Forte Clarke,24,Dublin,44,53,Re-dumped
+UK,12,Blu Chegini,26,London,1,4,Dumped
+UK,12,Blu Chegini,26,London,44,51,Re-dumped
+UK,12,Helena Ford,29,London,1,51,Dumped
+UK,12,"Bilikis ""Billykiss"" Azeez",28,Dublin,23,43,Dumped
+UK,12,Boris Vidović,28,"Ljubljana, Slovenia",29,43,Dumped
+UK,12,Emma Munro,30,Norwich,28,43,Dumped
+UK,12,Harrison Solomon,22,Derby,9,39,Walked
+UK,12,Lauren Wood,26,York,28,38,Dumped
+UK,12,Lucy Quinn,21,Liverpool,28,35,Dumped
+UK,12,Tommy Bradley,22,Hertfordshire,1,35,Dumped
+UK,12,Andrada Pop,27,Balbriggan,28,35,Dumped
+UK,12,Ben Holbrough,23,Gloucester,1,35,Dumped
+UK,12,Chris Middleton,29,Manchester,29,31,Dumped
+UK,12,Emily Moran,24,Aberdare,5,31,Dumped
+UK,12,Giorgio Russo,30,Maidstone,15,31,Dumped
+UK,12,Martin Enitan,23,South London,29,31,Dumped
+UK,12,Rheo Parnell,26,Nuneaton,28,31,Dumped
+UK,12,"Yasmin ""Yaz"" Broom",26,Stretford,28,31,Dumped
+UK,12,Alima Gagigo,23,Glasgow,1,24,Dumped
+UK,12,Ryan Bannister,27,Chesterfield,23,24,Dumped
+UK,12,Remell Mullings,24,Essex,3,19,Dumped
+UK,12,Caprice Alexandra,26,Romford,15,17,Dumped
+UK,12,Poppy Harrison,22,Stoke-on-Trent,15,17,Dumped
+UK,12,Shea Mannings,25,Bristol,3,17,Dumped
+UK,12,Will Means,25,Terrington St Clement,15,17,Dumped
+UK,12,Malisha Jordan,24,Broxbourne,5,9,Dumped
+UK,12,Sophie Lee,29,Darwen,1,2,Dumped
+US,1,Elizabeth Weber,24,"Birmingham, Michigan",1,30,Winner
+US,1,Zac Mirabelli,22,"Chicago, Illinois",1,30,Winner
+US,1,Alexandra Stewart,26,"Chestnut Hill, Pennsylvania[12]",1,30,Runner-up
+US,1,Dylan Curry,25,"East Meadow, New York[13]",4,30,Runner-up
+US,1,"Caroline ""Caro"" Viehweg",21,"Los Angeles, California[a]",1,30,Third place
+US,1,"Raymond ""Ray"" Gantt",23,"Hillside, New Jersey",15,30,Third place
+US,1,Emily Salch,21,"Groton, New York",21,30,Fourth place
+US,1,Weston Richey,25,"Dallas, Texas",1,30,Fourth place
+US,1,Kyra Green,22,"Harlem, New York[14]",1,27,Dumped
+US,1,Jered Youngblood,27,"Lakeland, Florida",21,27,Dumped
+US,1,Aissata Diallo,25,"Highbridge, New York[15]",15,25,Dumped
+US,1,Yamen Sanders,24,"Inglewood, California[16]",1,25,Dumped
+US,1,Anton Morrow,23,"Boiling Springs, Pennsylvania[17]",21,23,Dumped
+US,1,Eric Hall,27,"Toronto, Ontario",15,23,Dumped
+US,1,Kelsey Jurewicz,25,"Newark, Delaware",15,23,Walked
+US,1,Katrina Dimaranan,26,"San Juan, Philippines[18]",9,20,Dumped
+US,1,Cashel Barnett,28,"Sacramento, California",1,20,Dumped
+US,1,Winston Hines,29,"Lexington, Kentucky",11,18,Dumped
+US,1,"Marlisse ""Marli"" Tyndall",20,"Miami, Florida",15,18,Dumped
+US,1,George Johnson,30,"Beverly Hills, California",15,18,Dumped
+US,1,Christen McAllister,24,"Louisville, Kentucky[19]",9,13,Dumped
+US,1,Cormac Murphy,26,"Ennis, Ireland[20]",4,13,Dumped
+US,1,Alana Morrison,21,"New Haven, Connecticut",1,11,Dumped
+US,1,Mallory Santic,26,"Vancouver, Washington",1,11,Dumped
+US,1,Michael Yi,29,"Miami, Florida",1,6,Dumped
+US,2,Caleb Corprew,24,"Oklahoma City, Oklahoma",5,40,Winner
+US,2,Justine Ndiba,27,"Rockaway, New Jersey",1,40,Winner
+US,2,Cely Vazquez,24,"Sacramento, California",1,40,Runner-up
+US,2,Johnny Middlebrooks,22,"Chesapeake, Virginia",1,40,Runner-up
+US,2,Calvin Cobb,25,"Houston, Texas",5,40,Third place
+US,2,Moira Tumas,28,"Brielle, New Jersey",1,40,Third place
+US,2,Carrington Rodriguez,23,"Salt Lake City, Utah",1,40,Fourth place
+US,2,Laurel Goldman,22,"Auburn, Alabama",16,40,Fourth place
+US,2,Bennett Sipes,26,"Baltimore, Maryland",26,37,Dumped
+US,2,Lakeyn Call,21,"Yorktown, Virginia",30,37,Dumped
+US,2,Julia Hall,26,"Fayetteville, North Carolina",30,33,Dumped
+US,2,Kierstan Saulter,23,"Castroville, Texas",2,33,Dumped
+US,2,Bennie Bivens,24,"Barnegat, New Jersey",26,29,Dumped
+US,2,Connor Trott,23,"Pittsburgh, Pennsylvania",1,29,Dumped
+US,2,Noah Purvis,24,"Imperial, Missouri",26,28,Removed
+US,2,Aaron Owen,26,"Henderson, Nevada",16,25,Dumped
+US,2,Jalen Noble,27,"Nashville, Tennessee",16,25,Dumped
+US,2,Mackenzie Dipman,24,"Scottsdale, Arizona",1,25,Dumped
+US,2,Sheribel 'Sher' Suarez,22,"Orlando, Florida",16,25,Dumped
+US,2,De'Andre Asbury-Heath,25,"North Miami Beach, Florida",16,19,Dumped
+US,2,Mike Jenkerson,26,"San Jose, California",16,19,Dumped
+US,2,Patrick 'Pat' Albasha,28,"San Dimas, California",16,19,Dumped
+US,2,Faith Tyrell,26,"Kansas City, Missouri",16,19,Dumped
+US,2,GiNiele 'Gigi' Reitzell,24,"Paramount, California",16,19,Dumped
+US,2,Mercades Schell,26,"Las Cruces, New Mexico",16,19,Dumped
+US,2,Trevon 'Tre' Forte,25,"Boca Raton, Florida",1,14,Dumped
+US,2,Lauren Coogan,29,"Oxford, United Kingdom[a]",10,14,Dumped
+US,2,Rachel Lundell,21,"Minneapolis, Minnesota",2,12,Dumped
+US,2,Jeremiah White,22,"De Kalb, Mississippi",1,9,Dumped
+US,2,James McCool,27,"Winchester, Virginia",1,9,Dumped
+US,2,Kaitlynn Anderson,27,"Lapeer, Michigan",1,5,Dumped
+US,3,Korey Gandy,28,"Virginia Beach, Virginia",1,40,Winner
+US,3,Olivia Kaiser,28,"Anchorage, Alaska",1,40,Winner
+US,3,Kyra Lizama,23,"Honolulu, Hawaii",1,40,Runner-up
+US,3,Will Moncada,26,"Medellín, Colombia[a]",1,40,Runner-up
+US,3,Bailey Marshall,23,"Portland, Oregon",26,40,Third place
+US,3,Jeremy Hershberg,27,"New York, New York",1,40,Third place
+US,3,Alana Paolucci,28,"Buffalo, New York / Manhattan, New York",26,40,Fourth place
+US,3,Charlie Lynch,30,"Houston, Texas",19,40,Fourth place
+US,3,Andre Brunelli,28,"Jacksonville, Florida",30,38,Dumped
+US,3,Trina Njoroge,25,"Hacienda Heights, California",1,38,Dumped
+US,3,Elly Steffen,22,"Chicago, Illinois",26,34,Dumped
+US,3,K-Ci Maultsby,27,"Atlanta, Georgia",30,34,Dumped
+US,3,Cashay Proudfoot,25,"Brooklyn, New York",1,32,Dumped
+US,3,Josh Goldstein,24,"Haverhill, Massachusetts",1,31,Walked
+US,3,Shannon St. Clair,25,"Warminster, Pennsylvania",1,31,Walked
+US,3,Genevieve Shawcross,22,"West Chester, Pennsylvania",19,25,Dumped
+US,3,"Melvin ""Cinco"" Holland, Jr.",25,"Ashburn, Virginia",1,25,Dumped
+US,3,Leslie Golden,24,"Redwater, Texas",19,24,Removed
+US,3,"Florence ""Flo"" Mueller",26,"Miami, Florida",19,22,Dumped
+US,3,Isabel Johnson,21,"Minneapolis, Minnesota",19,22,Dumped
+US,3,Kay Taylor,24,"Calabasas, California",19,22,Dumped
+US,3,Andrew John Phillips,28,"Fort Lauderdale, Florida",19,22,Dumped
+US,3,Gabe Sadowsky,27,"Nashua, New Hampshire",19,22,Dumped
+US,3,"Kamryn ""Kam"" Mickens-Bennett",25,"Summit, New Jersey",19,22,Dumped
+US,3,Raul Frias,24,"Hialeah, Florida",19,22,Dumped
+US,3,Javonny Vega,26,"Boca Raton, Florida",1,17,Dumped
+US,3,Wes Ogsbury,24,"Denver, Colorado",12,17,Dumped
+US,3,Aimee Flores,26,"Los Angeles, California",3,17,Dumped
+US,3,Florita Diaz,27,"Miami, Florida",8,17,Dumped
+US,3,Isaiah Harmison,25,"Appleton, Wisconsin",6,15,Dumped
+US,3,Slade Parker,27,"Rome, Georgia",12,14,Walked
+US,3,Lei-Yen Rapp,28,"Houston, Texas",8,11,Dumped
+US,3,Roxy Ahmad,24,"Croydon, United Kingdom[b]",8,11,Dumped
+US,3,Christian Longnecker,24,"Oahu, Hawaii",1,5,Dumped
+US,4,Timmy Pandolfi,29,"New York City, New York",1,32,Winner
+US,4,Zeta Morrison,29,"Surrey, United Kingdom[a]",1,32,Winner
+US,4,Isaiah Campbell,21,"Sioux Falls, South Dakota",1,32,Runner-up
+US,4,Sydney Paight,22,"Houston, Texas",1,32,Runner-up
+US,4,"Deborah ""Deb"" Chubb",26,"Dallas, Texas",1,32,Third place
+US,4,Jesse Bray,27,"Springfield, Ohio",1,32,Third place
+US,4,Jeff Christian,25,"Cincinnati, Ohio",8,31,Walked
+US,4,Nadjha Day,23,"Atlanta, Georgia",12,31,Walked
+US,4,Chad Robinson,23,"Clarkston, Michigan",16,30,Dumped
+US,4,Phoebe Siegel,21,"Bedford Hills, New York",16,30,Dumped
+US,4,Mackenzie Dipman,25,"Scottsdale, Arizona",23,28,Walked
+US,4,Joel Bierwert,27,"Northampton, Massachusetts",21,28,Dumped
+US,4,Courtney Boerner,24,"Winter Park, Florida",1,24,Dumped
+US,4,"Katherine ""Kat"" Gibson",21,"Manassas, Virginia",12,22,Walked
+US,4,Chanse Corbi,21,"Los Angeles, California",16,22,Dumped
+US,4,Jared Hassim,23,"Los Angeles, California",12,22,Dumped
+US,4,Chazz Bryant,21,"Clifton, New Jersey",6,22,Dumped
+US,4,"Gabriella ""Bella"" Barbaro",22,"Oakdale, New York",16,22,Dumped
+US,4,"Nicholas ""Nic"" Birchall",22,"Caracas, Venezuela[b]",16,21,Walked
+US,4,Kyle Fraser,29,"Buffalo, New York",16,20,Removed
+US,4,Avery Grooms,24,"Fresno, California",16,19,Dumped
+US,4,Gabby Kiszka,23,"Westwood, New Jersey",16,19,Dumped
+US,4,Jordan Morello,28,"Plantation, Florida",16,19,Dumped
+US,4,Sam Kornse,24,"Phillipsburg, New Jersey",16,19,Dumped
+US,4,Tigerlily Cooley,24,"Seattle, Washington",16,19,Dumped
+US,4,Tre Watson,26,"Corona, California",16,19,Dumped
+US,4,"Madison ""Mady"" McLanahan",26,"Dallas, Texas",1,15,Walked
+US,4,Bryce Fins,30,"San Diego, California",8,15,Dumped
+US,4,Sereniti Springs,28,"Clovis, California",1,13,Dumped
+US,4,Bria Bryant,24,"Clifton, New Jersey",6,11,Dumped
+US,4,Andy Voyen,23,"Minneapolis, Minnesota",1,11,Dumped
+US,4,Felipe Gomes,32,"São Paulo, Brazil[c]",1,9,Dumped
+US,4,Tyler Radziszewski,23,"Cleveland, Ohio",4,7,Dumped
+US,4,"Valerie ""Val"" Bragg",23,"San José, Costa Rica[d]",1,5,Dumped
+US,5,Hannah Wright,24,"Palm Springs, California",2,32,Winner
+US,5,Marco Donatelli,22,"Girard, Ohio",1,32,Winner
+US,5,"Kassandra ""Kassy"" Castillo",22,"Fort Worth, Texas",1,32,Runner-up
+US,5,Leonardo Dionicio,21,"West Hartford, Connecticut",1,32,Runner-up
+US,5,"Carsten ""Bergie"" Bergersen",23,"Cottage Grove, Minnesota",1,32,Third place
+US,5,Taylor Smith,24,"Orange County, California",17,32,Third place
+US,5,Carmen Kocourek,22,"Milwaukee, Wisconsin",2,32,Fourth place
+US,5,Kenzo Nudo,26,"Phoenix, Arizona",10,32,Fourth place
+US,5,Johnnie Garcia,25,"Whittier, California",17,30,Dumped
+US,5,Scott van-der-Sluis,22,"Connah's Quay, United Kingdom",25,30,Dumped
+US,5,Destiny Davis,27,"Florissant, Missouri",1,30,Dumped
+US,5,Kyle Darden,24,"Floral Park, New York",16,30,Dumped
+US,5,Imani Wheeler,22,"Sacramento, California",13,28,Dumped
+US,5,"Isiah ""Zay"" Harayda",23,"Long Island, New York",16,28,Dumped
+US,5,Matia Marcantuoni,29,"Toronto, Ontario, Canada",16,27,Dumped
+US,5,Jonah Allman,24,"Rancho Murieta, California",10,24,Walked
+US,5,"Vickala ""Kay Kay"" Gray",25,"Palestine, Texas",1,24,Walked
+US,5,Mike Stark,22,"Augusta, Georgia",13,24,Dumped
+US,5,Taylor Chmelka,23,"San Diego, California",17,24,Dumped
+US,5,Keenan Anunay,23,"Washington, D.C.",1,24,Dumped
+US,5,Hannah Ortega,22,"Coral Springs, Florida",18,24,Dumped
+US,5,Allie Ryan,28,"Madison, Wisconsin",17,21,Dumped
+US,5,Ashley Sims,23,"Jefferson City, Missouri",17,21,Dumped
+US,5,Brandon Janse Van Vuuren,22,"Johannesburg, Gauteng, South Africa",16,21,Dumped
+US,5,Dasja Johnson,27,"Harrells, North Carolina",17,21,Dumped
+US,5,Eddie Brown,26,"Lagos, Nigeria",16,21,Dumped
+US,5,Najah Fleary,25,"Bladensburg, Maryland",17,21,Dumped
+US,5,"Robert ""Rob"" Rausch",24,"Florence, Alabama",16,21,Dumped
+US,5,Harrison Luna,26,"Adelaide, South Australia, Australia",4,15,Dumped
+US,5,Emily Chavez,25,"Houston, Texas",10,15,Dumped
+US,5,Anna Kurdys,22,"Boca Raton, Florida",1,11,Walked
+US,5,Victor Gonzalez,28,"Atlanta, Georgia",1,8,Dumped
+US,5,Jasmine Sklavanitis,24,"Mount Morris, Illinois",1,5,Dumped
+US,6,Kordell Beckham,22,"Dallas, Texas",1,32,Winner
+US,6,Serena Page,24,"Houston, Texas",1,32,Winner
+US,6,Leah Kateb,25,"Bell Canyon, California",1,32,Runner-up
+US,6,Miguel Harichi,27,"Camden Town, England, United Kingdom",9,32,Runner-up
+US,6,JaNa Craig,27,"Las Vegas, Nevada",1,32,Third place
+US,6,"Kenneth ""Kenny"" Rodriguez",24,"Bronx, New York",13,32,Third place
+US,6,Kendall Washington,27,"San Diego, California",1,32,Fourth place
+US,6,Nicole Jacky,26,"Reno, Nevada",6,32,Fourth place
+US,6,"Kassandra ""Kassy"" Castillo",23,"Fort Worth, Texas",27,30,Dumped
+US,6,"Robert ""Rob"" Rausch",25,"Florence, Alabama",1,30,Dumped
+US,6,Aaron Evans,26,"North Devon, England, United Kingdom",1,30,Dumped
+US,6,Kaylor Martin,22,"Connellsville, Pennsylvania",1,30,Dumped
+US,6,Daniela Ortiz-Rivera,22,"Longwood, Florida",17,27,Dumped
+US,6,Harrison Luna,27,"Adelaide, South Australia, Australia",24,27,Dumped
+US,6,Sierra Mills,22,"San Marcos, California",17,27,Dumped
+US,6,Caine Bacon,28,"Norwich, England, United Kingdom",17,25,Dumped
+US,6,Catherine Marshall,24,"Hillsboro, Oregon",17,24,Dumped
+US,6,Daia McGhee,27,"Los Angeles, California",17,24,Dumped
+US,6,"Olivia ""Liv"" Walker",21,"Sydney, New South Wales, Australia",2,24,Dumped
+US,6,Destiny Herzog,22,"Scottsdale, Arizona",17,20,Dumped
+US,6,George Vining,23,"Athens, Georgia",17,20,Dumped
+US,6,Ignacio Ferrari,28,"Buenos Aires, Argentina",17,20,Dumped
+US,6,Jacobi Graham,23,"Gonzales, Louisiana",17,20,Dumped
+US,6,Jalen Oliver,24,"Hagerstown, Indiana",17,20,Dumped
+US,6,Josiah Roebuck,25,"Saint Thomas, U.S. Virgin Islands",17,20,Dumped
+US,6,Sydney Leighton,24,"Rumson, New Jersey",17,20,Dumped
+US,6,Nigel Okafor,28,"Ann Arbor, Michigan",13,16,Dumped
+US,6,Cassidy Laudano,27,"Chicago, Illinois",13,16,Dumped
+US,6,Connor Newsum,28,"Santa Monica, California",2,15,Dumped
+US,6,Andrea Carmona,25,"Miami, Florida",6,11,Dumped
+US,6,Hakeem White,29,"Miami, Florida",2,11,Dumped
+US,6,Hannah Smith,26,"Concord, North Carolina",1,10,Dumped
+US,6,Coye Simmons,28,"Winston-Salem, North Carolina",1,4,Dumped
+US,7,Amaya Espinal,25,"New York City, New York",5,32,Winner
+US,7,Bryan Arenales,27,"Boston, Massachusetts",17,32,Winner
+US,7,"Nicolas ""Nic"" Vansteenberghe",24,"Jacksonville, Florida",1,32,Runner-up
+US,7,Olandria Carthen,27,"Decatur, Alabama",1,32,Runner-up
+US,7,Chris Seeley,27,"Fresno, California",17,32,Third place
+US,7,Huda Mustafa,24,"Raleigh, North Carolina",1,32,Third place
+US,7,Iris Kendall,25,"Los Angeles, California",9,32,Fourth place
+US,7,"Jose ""Pepe"" Garcia-Gonzalez",27,"Santa Ana, California",9,32,Fourth place
+US,7,"Allen ""Ace"" Greene",22,"Los Angeles, California",1,30,Dumped
+US,7,"Michelle ""Chelley"" Bissainthe",27,"Orlando, Florida",1,30,Dumped
+US,7,Clarke Carraway,24,"Charlotte, North Carolina",17,28,Dumped
+US,7,Taylor Williams,25,"Oklahoma City, Oklahoma",1,28,Dumped
+US,7,Elan Bibas,24,"Toronto, Canada",17,26,Dumped
+US,7,Zak Srakaew,29,"Roi Et, Thailand / Manchester, England[a]",17,26,Dumped
+US,7,Cierra Ortega,25,"Phoenix, Arizona",2,26,Removed
+US,7,Andreina Santos-Marte,24,"Jersey City, New Jersey",14,24,Dumped
+US,7,Austin Shepard,26,"Northville, Michigan",1,24,Dumped
+US,7,Gracyn Blackmore,25,"Bristol, Virginia",17,24,Dumped
+US,7,Jaden Duggar,25,"Los Angeles, California",17,24,Dumped
+US,7,"Thomas ""TJ"" Palma",23,"Westchester, New York",14,24,Dumped
+US,7,"Courtney ""Coco"" Watson",24,"Los Angeles, California",17,20,Dumped
+US,7,JD Dodard,23,"Dallas, Texas",17,20,Dumped
+US,7,"Savanna ""Vanna"" Einerson",21,"Salt Lake City, Utah",17,20,Dumped
+US,7,"Zachary ""Zac"" Woodworth",26,"Portland, Oregon",17,20,Dumped
+US,7,Jeremiah Brown,25,"Seattle, Washington",1,16,Dumped
+US,7,Hannah Fields,23,"Tucson, Arizona",5,16,Dumped
+US,7,Jalen Brown,27,"Sparta, Georgia",9,13,Dumped
+US,7,Charlie Georgiou,27,"Birmingham, United Kingdom",2,11,Dumped
+US,7,"Isabelle-Anne ""Belle-A"" Walker",22,"Gold Beach, Oregon[20]",1,6,Dumped
+US,7,Yulissa Escobar,27,"Miami, Florida",1,3,Removed
+AU,1,Grant Crapp,22,Canberra,1,39,Winner
+AU,1,Tayla Damir,21,Perth,1,39,Winner
+AU,1,Eden Dally,25,Sydney,1,39,Runner-up
+AU,1,Erin Barnett,23,Melbourne,1,39,Runner-up
+AU,1,Amelia Plummer,23,Sydney,23,39,Third place
+AU,1,Josh Moss,25,Sydney,1,39,Third place
+AU,1,Dom Thomas,26,Sydney,16,38,Dumped
+AU,1,Shelby Bilby,25,Gold Coast,23,38,Dumped
+AU,1,Mark O'Dare,26,Sydney,31,37,Dumped
+AU,1,Millie Fuller,24,Sydney,1,37,Dumped
+AU,1,"Edyn ""Mac"" Mackney",22,Gold Coast,14,36,Dumped
+AU,1,Teddy Briggs,25,Adelaide,21,36,Dumped
+AU,1,Kory Grant,28,Melbourne,31,35,Dumped
+AU,1,Jaxon Human,24,Melbourne,11,30,Dumped
+AU,1,Françoise Draschler,28,Melbourne,8,26,Dumped
+AU,1,Cassidy McGill,24,Melbourne,1,25,Dumped
+AU,1,Elias Chigros,27,Melbourne,4,18,Dumped
+AU,1,Justin Lacko,27,Melbourne,1,18,Dumped
+AU,1,Natasha Cherie,24,Perth,1,15,Dumped
+AU,1,John James Parton,32,Melbourne,4,11,Walked
+AU,1,Kim Hartnett,21,Brisbane,2,9,Dumped
+AU,1,Charlie Taylor,22,Sydney,1,7,Dumped
+AU,2,Anna McEvoy,27,Melbourne,4,36,Winner
+AU,2,Josh Packham,25,Northern Beaches,8,36,Winner
+AU,2,Cartier Surjan,19,Sydney,1,36,Runner-up
+AU,2,Matthew Zukowski,23,Melbourne,1,36,Runner-up
+AU,2,Aaron Deacon Shaw,27,Gold Coast,17,36,Third Place
+AU,2,Cynthia Taylu,23,Brisbane,1,36,Third Place
+AU,2,Jessie Wynter,23,Hobart,1,30,Fourth place
+AU,2,Todd Elton,26,Melbourne,21,30,Fourth place
+AU,2,Blake Williamson,28,Gold Coast,21,29,Dumped
+AU,2,Margarita Smith,26,Melbourne,25,29,Dumped
+AU,2,Adam Farrugia,27,Gold Coast,1,27,Dumped
+AU,2,Isabelle Green,27,Brisbane,15,26,Dumped
+AU,2,Luke Packham,25,Northern Beaches,8,26,Dumped
+AU,2,Cassie Lansdell,26,Sydney,1,26,Dumped
+AU,2,Gerard Majda,23,Perth,1,22,Walked
+AU,2,Biannca Furchtman,25,Sydney,15,20,Dumped
+AU,2,Jordan Cayless,28,Perth,15,20,Dumped
+AU,2,Eoghan Murphy,24,Gold Coast,2,19,Dumped
+AU,2,Angel Ellis-Holley,19,Brisbane,15,17,Dumped
+AU,2,Tea Frazer,20,Perth,15,17,Dumped
+AU,2,Maurice Salib,27,Sydney,1,14,Dumped
+AU,2,Vanessa Joli,24,Sydney,1,14,Dumped
+AU,2,Phoebe Thompson,28,Sydney,4,11,Dumped
+AU,2,Sam Withers,28,Melbourne,1,7,Dumped
+AU,3,Mitch Hibberd,25,Melbourne,3,45,Winner
+AU,3,Tina Provis,25,Sydney,1,45,Winner
+AU,3,Aaron Waters,24,Perth,1,45,Runner-up
+AU,3,Jess Velkovski,23,Cronulla,1,45,Runner-up
+AU,3,Chris Graudins,25,Gold Coast,3,45,Runner-up
+AU,3,Zoe Clish,25,Gold Coast,14,45,Runner-up
+AU,3,Courtney Stubbs,23,Gold Coast,1,43,Dumped
+AU,3,Noah Hura,23,Perth,23,43,Dumped
+AU,3,Taku Chimwaza,24,Wollongong,1,41,Dumped
+AU,3,Michela Louis,25,Sydney,21,41,Dumped
+AU,3,Hugh Yates,24,Northern Beaches,30,41,Dumped
+AU,3,Eliza Kennedy,26,Brisbane,35,41,Dumped
+AU,3,Jade Ashelford,21,Sunshine Coast,35,39,Dumped
+AU,3,Lexy Thornberry,20,Brisbane,2,39,Dumped
+AU,3,Ryan Reid,25,Terrigal,1,35,Dumped
+AU,3,Tayla Mellington,26,Gold Coast,21,35,Dumped
+AU,3,Ben Giobbi,25,Melbourne,23,30,Dumped
+AU,3,Aisha Campbell,23,Perth,21,26,Dumped
+AU,3,Audrey Kanongara,21,Brisbane,21,26,Dumped
+AU,3,Brent Crapp,25,Central Coast,23,26,Dumped
+AU,3,Brianna Marchant,20,Brisbane,21,26,Dumped
+AU,3,Nicolas Love,22,Sydney,14,26,Dumped
+AU,3,Ruby Ennor,25,Gold Coast,21,26,Dumped
+AU,3,Sadee Sub Luban,22,Sydney,23,26,Dumped
+AU,3,Shayne Tino,27,Melbourne,23,26,Dumped
+AU,3,Emily Ward,24,Melbourne,8,17,Dumped
+AU,3,Ari Kumar,25,Gold Coast,1,16,Dumped
+AU,3,Ronni Krongold,21,Sydney,1,16,Dumped
+AU,3,Rachael Evren,21,Gold Coast,1,10,Dumped
+AU,3,Jordan Tilli,28,Melbourne,1,5,Dumped
+AU,4,Austen Bugeja,22,Sydney,1,30,Winner
+AU,4,Claudia Bonifazio,23,Adelaide,1,30,Winner
+AU,4,Callum Hole,24,Brisbane[a],2,30,Runner-up
+AU,4,Madeline Wilcox[b],25,Melbourne,23,30,Runner-up
+AU,4,Mitchell Eliot,25,Sydney,1,30,Runner-up
+AU,4,Phoebe Spiller,22,Sydney,1,30,Runner-up
+AU,4,Al Perkins,26,Sydney,8,29,Dumped
+AU,4,Jessica Losurdo,26,Sydney,1,29,Dumped
+AU,4,Mitch Hibberd,25,Melbourne,19,28,Dumped
+AU,4,Tina Provis,26,Sydney,20,28,Dumped
+AU,4,Hugh Wilcox[b],25,Melbourne,23,27,Dumped
+AU,4,Stella Hutcheon,24,Brisbane,1,27,Dumped
+AU,4,Jordan Dowsett,25,Gold Coast,1,26,Dumped
+AU,4,Phoebe Han,22,Brisbane,12,24,Dumped
+AU,4,Tak Chipangura,23,Brisbane,2,22,Dumped
+AU,4,Maddy Gillbanks,26,Perth,6,21,Dumped
+AU,4,Jason Shtjefni,25,Adelaide[c],18,19,Walked
+AU,4,Vakoo Kauapirua,27,Sydney,12,17,Dumped
+AU,4,Ben Gleeson,25,Sydney,14,16,Dumped
+AU,4,Layla John,20,Melbourne,1,14,Dumped
+AU,4,Conor Howard,26,Sydney,1,10,Dumped
+AU,4,Holly Oakes-Ferguson,25,Brisbane,1,10,Dumped
+AU,4,Andre Coutinho,24,Perth,1,5,Dumped
+AU,5,Kale Roberts,25,Gold Coast,4,13,Dumped
+AU,5,Kale Roberts,25,Gold Coast,16,29,Winner
+AU,5,Tyra Johannes,23,Sunshine Coast,1,29,Winner
+AU,5,Clint Posselt,28,Sunshine Coast,21,29,Runner-up
+AU,5,Savannah Badger,26,Adelaide,1,29,Runner-up
+AU,5,Lucinda Strafford,23,"Brighton, UK",2,29,Runner-up
+AU,5,Zac Nunns,25,Melbourne,1,29,Runner-up
+AU,5,Chloe Jackson,23,Sydney,17,28,Dumped
+AU,5,Reid Polak,26,Gold Coast,3,28,Dumped
+AU,5,Georgia Murray,21,Penrith,11,27,Dumped
+AU,5,Nate Page,24,Sydney,1,27,Dumped
+AU,5,Andy Cosgrove,27,"Seattle, U.S.",13,25,Dumped
+AU,5,Harmony Johnson,23,Sydney,21,25,Dumped
+AU,5,Nakia Pires,21,Adelaide,1,25,Dumped
+AU,5,Trent Woolman,25,Melbourne,1,22,Dumped
+AU,5,Tasia Hafenstein,24,Brisbane,15,19,Dumped
+AU,5,Abby Miller,23,Sydney,7,18,Dumped
+AU,5,Seb Williams,24,Melbourne,15,18,Dumped
+AU,5,Aidan Knox,29,Sydney,10,16,Dumped
+AU,5,Ryan Craig-Turner,28,Wollongong,10,12,Dumped
+AU,5,Tia Gregory,24,Canberra,1,12,Dumped
+AU,5,Ben Richardson,22,Sydney,1,11,Dumped
+AU,5,Kirra Schofield,26,Perth,1,9,Dumped
+AU,5,Ollie Lawson,24,Perth,1,6,Dumped
+AU,6,Em Miguel Leigh,27,Sydney,1,25,Winner
+AU,6,Mercedes Knox,28,"Dallas, U.S.",10,25,Winner
+AU,6,Eric Gracia,26,Sydney,18,25,Runner-up
+AU,6,Kaylah Holmes,22,Manly,9,25,Runner-up
+AU,6,Mia Dalkos,23,Adelaide,13,25,Runner-up
+AU,6,Niko Fotopoulos,28,Sydney,1,25,Runner-up
+AU,6,Dylan Towolawi,25,"Galway, Ireland",1,24,Dumped
+AU,6,Sophie Mills,22,Queensland,4,24,Dumped
+AU,6,Hannah Steinfeld,24,Melbourne,1,14,Dumped
+AU,6,Hannah Steinfeld,24,Melbourne,16,24,Dumped
+AU,6,Taylor Reid,28,Melbourne,1,24,Dumped
+AU,6,Mimi Paranihi,25,Sydney,1,23,Dumped
+AU,6,"Stephane ""Steph"" Blackos",25,"Paris, France",6,23,Dumped
+AU,6,Jade Phalen,21,Brisbane,18,21,Dumped
+AU,6,Zane Prophet,24,Gold Coast,1,21,Dumped
+AU,6,Krissy Bertone,25,Perth,9,16,Dumped
+AU,6,Tommy Armour,24,Gold Coast,8,12,Walked
+AU,6,Sydney Paight,25,"Los Angeles, U.S.",6,11,Dumped
+AU,6,Xanthe Wessen,21,Sydney,1,10,Dumped
+AU,6,Indigo Carthew,23,Cairns,1,8,Dumped
+AU,6,Eilisha Purcell,25,Brisbane,1,5,Dumped
+AU,6,Kane Godlevsky,23,Gold Coast,1,3,Dumped
